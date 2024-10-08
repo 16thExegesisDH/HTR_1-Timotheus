@@ -10,138 +10,98 @@ characters:
   - i
   - e
   - t
-  - u
   - a
-  - n
+  - u
   - o
+  - n
   - r
   - m
   - ſ
   - c
   - d
-  - l
   - s
   - p
+  - l
   - ','
   - .
-  - q
-  - v
-  - b
   - ¬
-  - '&'
-  - æ
+  - q
   - h
-  - g
+  - b
   - f
-  - ̀
-  - ̃
-  - D
-  - P
-  - E
-  - x
   - I
+  - v
+  - æ
+  - g
+  - '&'
+  - E
+  - ̀
+  - T
+  - x
+  - ':'
   - A
   - C
-  - T
-  - ':'
-  - S
-  - V
-  - ́
-  - '1'
-  - M
-  - '2'
-  - α
-  - N
-  - ι
-  - j
-  - Q
-  - L
-  - ο
-  - R
-  - H
-  - '3'
-  - ν
   - O
-  - y
-  - '4'
-  - '5'
+  - V
+  - N
+  - S
+  - ̃
+  - P
+  - M
+  - R
+  - α
+  - D
+  - ́
+  - ο
+  - ν
+  - H
+  - Q
+  - ι
   - τ
-  - ε
-  - ς
+  - '2'
+  - '1'
+  - σ
+  - L
   - ̂
-  - ̓
-  - ̨
   - ρ
   - G
-  - σ
-  - '6'
-  - κ
-  - œ
-  - '8'
-  - '7'
-  - '9'
-  - υ
-  - η
-  - F
-  - (
-  - )
-  - ω
-  - B
-  - μ
   - π
+  - ε
+  - κ
+  - ̓
+  - '4'
+  - μ
+  - υ
+  - B
+  - y
+  - ς
   - λ
-  - δ
-  - γ
-  - z
-  - ;
-  - ͂
   - '?'
-  - '{'
-  - θ
+  - '3'
   - '0'
-  - χ
-  - ξ
+  - '9'
   - ̔
-  - β
-  - Α
-  - ¶
-  - Æ
+  - γ
+  - η
+  - '8'
+  - δ
+  - œ
   - φ
-  - X
-  - '|'
-  - ̧
-  - ʹ
-  - ’
-  - Z
-  - Μ
-  - "'"
+  - '7'
+  - F
   - Κ
-  - Π
-  - Ε
-  - ͅ
+  - ͂
+  - '-'
+  - θ
   - U
   - ζ
-  - ̈
-  - Y
-  - ·
-  - ↄ
-  - '-'
+  - '6'
+  - β
+  - Π
   - ψ
-  - Β
-  - Χ
-  - ᾽
-  - ꝰ
-  - ת
-  - פ
-  - ל
-  - ה
-  - Ν
-  - £
-  - Τ
-  - ϲ
-  - ᚠ
-  - '!'
-  -  
+  - χ
+  - Y
+  - z
   mode: NFD
 description: Data for data for Paul’s exegesis.
 format: Alto-XML
@@ -167,11 +127,11 @@ title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/FourbeFlo/HTR_beta_corpus_2023
 volume:
-- count: 161003
+- count: 11067
   metric: characters
-- count: 141
+- count: 11
   metric: files
-- count: 4672
+- count: 345
   metric: lines
-- count: 508
+- count: 44
   metric: regions
