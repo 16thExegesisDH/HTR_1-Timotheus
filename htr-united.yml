@@ -1,0 +1,185 @@
+authors:
+- name: Floriane
+  roles:
+  - transcriber
+  - project-manager
+  - quality-control
+  surname: Goy
+characters:
+  members:
+  - i
+  - e
+  - t
+  - u
+  - a
+  - n
+  - o
+  - r
+  - m
+  - ſ
+  - c
+  - d
+  - l
+  - s
+  - p
+  - ','
+  - .
+  - q
+  - b
+  - ¬
+  - v
+  - h
+  - '&'
+  - æ
+  - g
+  - f
+  - ̀
+  - ̃
+  - D
+  - E
+  - P
+  - x
+  - I
+  - A
+  - C
+  - S
+  - T
+  - ':'
+  - V
+  - ́
+  - M
+  - '1'
+  - N
+  - j
+  - '2'
+  - α
+  - Q
+  - ι
+  - L
+  - H
+  - R
+  - ο
+  - O
+  - '3'
+  - ν
+  - y
+  - '4'
+  - τ
+  - '5'
+  - ε
+  - ·
+  - ̨
+  - ς
+  - ̂
+  - ̓
+  - ;
+  - œ
+  - G
+  - ρ
+  - σ
+  - '6'
+  - κ
+  - '8'
+  - '9'
+  - υ
+  - '7'
+  - F
+  - η
+  - (
+  - )
+  - B
+  - ω
+  - μ
+  - π
+  - λ
+  - δ
+  - γ
+  - ͂
+  - z
+  - '?'
+  - '0'
+  - θ
+  - ß
+  - '{'
+  - ̔
+  - χ
+  - ξ
+  - β
+  - Α
+  - ¶
+  - Æ
+  - φ
+  - ͅ
+  - Z
+  - X
+  - '|'
+  - ̧
+  - ʹ
+  - ’
+  - Μ
+  - "'"
+  - Κ
+  - Π
+  - Ε
+  - U
+  - ζ
+  - ↄ
+  - ̈
+  - '-'
+  - Y
+  - ל
+  - ψ
+  - ᗞ
+  - ꝑ
+  - ח
+  - ר
+  - Β
+  - Χ
+  - ᾽
+  - ꝰ
+  - ת
+  - פ
+  - ה
+  - Ν
+  - £
+  - Τ
+  - ϲ
+  - ᚠ
+  - '!'
+  -  
+  - ꝗ
+  - đ
+  - ꝓ
+  mode: NFD
+description: Data for data for Paul’s exegesis.
+format: Alto-XML
+hands:
+  count: '1'
+  precision: exact
+language:
+- eng
+license:
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+production-software: eScriptorium + Kraken
+project-name: L'exegese Paulinnienne
+project-website: https://www.unige.ch/ihr/fr/accueil/exegese-paulinienne/
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+script:
+- iso: Latn
+script-type: only-typed
+time:
+  notAfter: '1400'
+  notBefore: '1600'
+title: Lambertus
+transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
+url: https://github.com/FourbeFlo/HTR_beta_corpus_2023
+volume:
+- count: 182218
+  metric: characters
+- count: 164
+  metric: files
+- count: 5340
+  metric: lines
+- count: 620
+  metric: regions
