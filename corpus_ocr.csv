@@ -1,3 +1,4 @@
-Identifier,Segmentation,Transcription,Resp,Pages,Author,Title,Printer,Date,Place,Link digital book,Library,Call number
-Aretius_1-Tim_001,gold,gold,FG,450(11),Benedictus Aretius,in Epistolas ad Timotheum ad Titum et ad Philemonem,Jean Le preux,1580,Morges,https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10313792-3,München Bayerische Staatsbibliothek,Exeg. 53 Beibd.1
-Daneau_1-Tim_001,gold,gold,FG,513(130),Lambert Daneau,priorem Epistolam ad Timotheum,Eustathius Vignon,1577,Genève,https://doi.org/10.3931/e-rara-6338,Bibliothèque de Genève,BGE Cti 1753 BGE S 22877
+Identifier,Segmentation,Transcription,Resp,Pages,on 1ine file,Author,Title,Printer,Date,Place,Link digital book,Library,Call number
+Aretius_1-Tim_001,presegmented,--,FG,450(170),bsb10313792_00009-bsb10313792_00178,Benedictus Aretius,in Epistolas ad Timotheum ad Titum et ad Philemonem,Jean Le preux,1580,Morges,https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10313792-3,München Bayerische Staatsbibliothek,Exeg. 53 Beibd.1
+Bullinger_1-Tim_001, --,--,FG,480(165),7325935-7326099,Heinrich Bullinger, In D. Apostoli Pauli ad Thessalonicenses Timotheum Titum & Philemonem epistolas, Christoph Froschauer, 1536, Zürich, https://doi.org/10.3931/e-rara-23723, Zentralbibliothek Zürich, VD 16 B 5144 Vischer C 251
+Daneau_1-Tim_001,gold,gold,FG,513(130),,Lambert Daneau,priorem Epistolam ad Timotheum,Eustathius Vignon,1577,Genève,https://doi.org/10.3931/e-rara-6338,Bibliothèque de Genève,BGE Cti 1753 BGE S 22877
