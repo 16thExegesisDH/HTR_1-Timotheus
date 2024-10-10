@@ -125,7 +125,7 @@ time:
   notBefore: '1600'
 title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
-url: https://github.com/FourbeFlo/HTR_beta_corpus_2023
+url: https://github.com/16thExegesisDH/HTR_1-Timotheus
 volume:
 - count: 11067
   metric: characters
