@@ -126,7 +126,7 @@
                     WIDTH="226.0"
                     HEIGHT="64.0">
             <Shape><Polygon POINTS="73 441 73 460 116 455 132 459 154 465 155 465 156 465 157 465 183 457 190 455 193 457 207 466 208 466 209 466 210 467 280 467 280 466 281 466 282 466 299 455 299 441 297 408 288 415 238 406 223 404 223 404 222 404 216 406 186 416 156 416 141 407 140 407 73 403 73 441"/></Shape>
-	    <String CONTENT="beat, cap-3."
+	    <String CONTENT="beat, cap.3."
                     HPOS="73.0"
                     VPOS="403.0"
                     WIDTH="226.0"
@@ -449,7 +449,7 @@
                     WIDTH="16"
                     HEIGHT="103">
             <Shape><Polygon POINTS="867 93 867 113 883 110 883 93 883 13 867 10 867 93"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="5"
                     HPOS="867"
                     VPOS="10"
                     WIDTH="16"
@@ -475,23 +475,21 @@
                     HPOS="604.0"
                     VPOS="1535.0"
                     WIDTH="55.0"
-                    HEIGHT="59.0"
-                    WC="0.9993247985839844"></String>
+                    HEIGHT="59.0"></String>
           </TextLine>
           <TextLine ID="line_28"
                     TAGREFS="LT8"
-                    BASELINE="678 1583 689 1581" 
-                    HPOS="670.0"
-                    VPOS="1545.0"
-                    WIDTH="23.0"
-                    HEIGHT="65.0">
-            <Shape><Polygon POINTS="678 1583 683 1610 693 1607 689 1581 681 1545 670 1545 678 1583"/></Shape>
-	    <String CONTENT="2"
-                    HPOS="670.0"
-                    VPOS="1545.0"
-                    WIDTH="23.0"
-                    HEIGHT="65.0"
-                    WC="0.9716995358467102"></String>
+                    BASELINE="678 1583 694 1581" 
+                    HPOS="670"
+                    VPOS="1547"
+                    WIDTH="28"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="670 1547 677 1582 682 1610 698 1610 693 1579 685 1547"/></Shape>
+	    <String CONTENT="3"
+                    HPOS="670"
+                    VPOS="1547"
+                    WIDTH="28"
+                    HEIGHT="63"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="863"
