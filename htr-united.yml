@@ -71,9 +71,9 @@ characters:
   - ̂
   - π
   - '4'
+  - '3'
   - μ
   - y
-  - '3'
   - λ
   - γ
   - B
@@ -86,9 +86,9 @@ characters:
   - ̔
   - '?'
   - '8'
-  - '-'
   - '6'
   - F
+  - '-'
   - θ
   - φ
   - '7'
@@ -96,6 +96,7 @@ characters:
   - ζ
   - Π
   - χ
+  - '5'
   - Ε
   - Κ
   - U
@@ -103,7 +104,6 @@ characters:
   - ψ
   - Y
   - z
-  - '5'
   - Ν
   - ξ
   - '{'
@@ -135,9 +135,9 @@ title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/16thExegesisDH/HTR_1-Timotheus
 volume:
-- count: 22606
+- count: 22607
   metric: characters
-- count: 24
+- count: 25
   metric: files
 - count: 735
   metric: lines
