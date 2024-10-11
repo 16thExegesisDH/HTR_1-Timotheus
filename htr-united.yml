@@ -137,7 +137,7 @@ url: https://github.com/16thExegesisDH/HTR_1-Timotheus
 volume:
 - count: 22606
   metric: characters
-- count: 25
+- count: 24
   metric: files
 - count: 735
   metric: lines
