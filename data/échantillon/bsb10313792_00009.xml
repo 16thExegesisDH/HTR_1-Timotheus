@@ -17,7 +17,7 @@
         </Processing>
     </Description>
     <Tags>
-        <OtherTag ID="TYPE_1" LABEL="default"/>
+        <OtherTag ID="TYPE_1" LABEL="DefaultLine"/>
         <OtherTag ID="TYPE_2" LABEL="MainZone"/>
         <OtherTag ID="TYPE_3" LABEL="DropCapitalZone"/>
         <OtherTag ID="TYPE_4" LABEL="RunningTitleZone"/>
