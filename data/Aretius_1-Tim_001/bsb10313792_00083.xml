@@ -21,13 +21,13 @@
                   VPOS="0"
                   WIDTH="1098"
                   HEIGHT="1743">
-        <TextBlock HPOS="101"
-                   VPOS="105"
-                   WIDTH="817"
-                   HEIGHT="739"
+        <TextBlock HPOS="87"
+                   VPOS="100"
+                   WIDTH="831"
+                   HEIGHT="744"
                    ID="block_2"
                    TAGREFS="BT1853">
-          <Shape><Polygon POINTS="918 105 918 844 101 844 101 105"/></Shape>
+          <Shape><Polygon POINTS="918 105 918 844 101 844 87 100"/></Shape>
           <TextLine ID="line_1"
                     TAGREFS="LT8"
                     BASELINE="100 145 906 140" 
@@ -263,16 +263,16 @@
           <Shape><Polygon POINTS="813 53 813 100 173 100 173 53"/></Shape>
           <TextLine ID="line_0"
                     TAGREFS="LT10"
-                    BASELINE="175 88 615 84 798 86" 
-                    HPOS="173"
+                    BASELINE="187 88 615 84 798 86" 
+                    HPOS="184"
                     VPOS="53"
-                    WIDTH="622"
+                    WIDTH="611"
                     HEIGHT="55">
-            <Shape><Polygon POINTS="783 53 173 53 174 87 178 108 184 101 378 108 431 100 626 107 632 100 709 106 715 98 795 98 794 53 783 53"/></Shape>
+            <Shape><Polygon POINTS="780 53 184 53 186 101 378 108 426 100 572 107 577 107 584 100 626 107 634 100 709 106 716 98 795 98 795 53 780 53"/></Shape>
 	    <String CONTENT="IN L. EPIST. AD TIMOTH"
-                    HPOS="173"
+                    HPOS="184"
                     VPOS="53"
-                    WIDTH="622"
+                    WIDTH="611"
                     HEIGHT="55"
                     WC="0.9999694417823445"></String>
           </TextLine>
@@ -323,13 +323,13 @@
                     WC="0.9999433755874634"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="104"
+        <TextBlock HPOS="92"
                    VPOS="899"
-                   WIDTH="813"
+                   WIDTH="825"
                    HEIGHT="584"
                    ID="block_4"
                    TAGREFS="BT1851">
-          <Shape><Polygon POINTS="917 899 917 1483 104 1483 104 899"/></Shape>
+          <Shape><Polygon POINTS="917 899 917 1483 92 1483 94 899"/></Shape>
           <TextLine ID="line_17"
                     TAGREFS="LT8"
                     BASELINE="172 936 901 927" 
@@ -348,16 +348,16 @@
           <TextLine ID="line_18"
                     TAGREFS="LT8"
                     BASELINE="106 987 473 979 903 977" 
-                    HPOS="105.0"
-                    VPOS="943.0"
-                    WIDTH="798.0"
-                    HEIGHT="58.0">
-            <Shape><Polygon POINTS="106 987 106 1001 902 991 903 977 902 947 884 943 883 943 882 943 881 943 872 947 871 948 789 948 760 943 759 943 712 950 707 951 595 951 594 951 584 947 583 947 582 947 581 947 566 951 507 946 506 946 505 946 504 946 497 950 428 948 427 948 426 948 403 954 329 950 328 950 296 955 286 949 285 949 284 949 283 949 253 956 236 949 235 949 185 949 184 949 183 949 151 957 118 950 117 950 116 950 115 950 105 956 106 987"/></Shape>
+                    HPOS="105"
+                    VPOS="943"
+                    WIDTH="798"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="106 1001 902 991 903 977 902 947 884 943 883 943 882 943 881 943 872 947 871 948 789 948 760 943 759 943 712 950 707 951 595 951 594 951 584 947 583 947 582 947 581 947 566 951 507 946 506 946 505 946 504 946 497 950 428 948 427 948 426 948 403 954 329 950 328 950 296 955 286 949 285 949 284 949 283 949 253 956 236 949 235 949 185 949 184 949 183 949 151 957 118 950 117 950 116 950 115 950 105 956 106 987"/></Shape>
 	    <String CONTENT="Ac refero in genere ad totum miniſterium:"
-                    HPOS="105.0"
-                    VPOS="943.0"
-                    WIDTH="798.0"
-                    HEIGHT="58.0"
+                    HPOS="105"
+                    VPOS="943"
+                    WIDTH="798"
+                    HEIGHT="58"
                     WC="0.9924015824387713"></String>
           </TextLine>
           <TextLine ID="line_19"
