@@ -44,29 +44,6 @@
                     WC="0.9999694417823445"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="881"
-                   VPOS="92"
-                   WIDTH="29"
-                   HEIGHT="4"
-                   ID="eSc_textblock_70de2893"
-                   >
-          <Shape><Polygon POINTS="881 92 881 96 910 96 910 92"/></Shape>
-          <TextLine ID="eSc_line_4b8b612c"
-                    TAGREFS="LT8"
-                    BASELINE="872 86 902 86" 
-                    HPOS="871"
-                    VPOS="49"
-                    WIDTH="30"
-                    HEIGHT="49">
-            <Shape><Polygon POINTS="871 85 871 98 882 98 885 90 900 90 901 90 901 85 898 49 871 56 871 85"/></Shape>
-	    <String CONTENT="75"
-                    HPOS="871"
-                    VPOS="49"
-                    WIDTH="30"
-                    HEIGHT="49"
-                    WC="0.9999433755874634"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="87"
                    VPOS="100"
                    WIDTH="831"
