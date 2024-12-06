@@ -449,20 +449,6 @@
                     HEIGHT="59"
                     WC="0.9944318890571594"></String>
           </TextLine>
-          <TextLine ID="line_28"
-                    TAGREFS="LT8"
-                    BASELINE="276 1376 733 1381" 
-                    HPOS="273"
-                    VPOS="1328"
-                    WIDTH="457"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="586 1337 573 1330 458 1330 437 1336 406 1328 392 1328 377 1334 291 1328 275 1333 273 1384 302 1394 425 1385 462 1397 509 1387 519 1397 704 1400 730 1387 728 1331"/></Shape>
-	    <String CONTENT="14 Hæc tibi ſcribo,&amp;c."
-                    HPOS="273"
-                    VPOS="1328"
-                    WIDTH="457"
-                    HEIGHT="72"></String>
-          </TextLine>
         </TextBlock>
         <TextBlock HPOS="210"
                    VPOS="1392"
@@ -547,6 +533,22 @@
                    ID="eSc_textblock_feec9804"
                    TAGREFS="BT1852">
           <Shape><Polygon POINTS="264 1337 264 1390 748 1390 748 1337"/></Shape>
+        </TextBlock>
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="line_28"
+                    TAGREFS="LT8"
+                    BASELINE="276 1376 733 1381" 
+                    HPOS="273"
+                    VPOS="1328"
+                    WIDTH="457"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="586 1337 573 1330 458 1330 437 1336 406 1328 392 1328 377 1334 291 1328 275 1333 273 1384 302 1394 425 1385 462 1397 509 1387 519 1397 704 1400 730 1387 728 1331"/></Shape>
+	    <String CONTENT="14 Hæc tibi ſcribo,&amp;c."
+                    HPOS="273"
+                    VPOS="1328"
+                    WIDTH="457"
+                    HEIGHT="72"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>
