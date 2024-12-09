@@ -30,18 +30,17 @@
           <Shape><Polygon POINTS="269 65 269 102 227 102 227 65"/></Shape>
           <TextLine ID="line_1"
                     TAGREFS="LT8"
-                    BASELINE="227 92 275 92" 
-                    HPOS="227.0"
-                    VPOS="90.0"
-                    WIDTH="48.0"
-                    HEIGHT="24.0">
-            <Shape><Polygon POINTS="266 90 257 90 247 90 237 90 227 90 227 92 227 113 274 114 275 92 274 90 266 90"/></Shape>
-	    <String CONTENT="6"
-                    HPOS="227.0"
-                    VPOS="90.0"
-                    WIDTH="48.0"
-                    HEIGHT="24.0"
-                    WC="0.9999346733093262"></String>
+                    BASELINE="233 92 259 92" 
+                    HPOS="226"
+                    VPOS="62"
+                    WIDTH="32"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="241 65 226 62 226 91 226 116 258 113 258 91 258 65 256 65"/></Shape>
+	    <String CONTENT="82"
+                    HPOS="226"
+                    VPOS="62"
+                    WIDTH="32"
+                    HEIGHT="54"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="403"
