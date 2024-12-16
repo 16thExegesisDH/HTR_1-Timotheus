@@ -43,11 +43,11 @@ characters:
   - D
   - x
   - S
-  - α
   - ο
+  - α
   - M
-  - C
   - ́
+  - C
   - N
   - ι
   - O
@@ -57,12 +57,12 @@ characters:
   - R
   - ε
   - H
-  - '1'
   - τ
+  - '1'
   - ς
   - ρ
-  - ̓
   - σ
+  - ̓
   - η
   - λ
   - υ
@@ -75,24 +75,24 @@ characters:
   - ̂
   - '3'
   - y
-  - δ
   - γ
+  - δ
   - '4'
   - ω
-  - B
   - ͂
+  - B
   - '6'
   - '5'
   - F
   - G
   - θ
   - '9'
-  - χ
   - œ
-  - '8'
-  - '0'
-  - '7'
+  - χ
   - φ
+  - '8'
+  - '7'
+  - '0'
   - ̔
   - β
   - '?'
@@ -101,10 +101,10 @@ characters:
   - ξ
   - ζ
   - X
-  - j
   - z
-  - "'"
+  - j
   - Π
+  - "'"
   - Τ
   - Β
   - ̈
@@ -113,18 +113,18 @@ characters:
   - Κ
   - ’
   - K
+  - ͅ
   - ψ
   - (
   - )
   - Μ
   - Z
-  - Y
   - ꝓ
-  - ͅ
   - ̨
   - Σ
   - ꝗ
   - Ν
+  - Y
   - ̧
   - '*'
   - U
@@ -133,6 +133,7 @@ characters:
   - $
   - '|'
   - k
+  - Υ
   - »
   - Ι
   - ꝰ
@@ -163,11 +164,11 @@ title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/16thExegesisDH/HTR_1-Timotheus
 volume:
-- count: 170105
+- count: 170175
   metric: characters
 - count: 164
   metric: files
-- count: 5146
+- count: 5147
   metric: lines
-- count: 1066
+- count: 1067
   metric: regions
