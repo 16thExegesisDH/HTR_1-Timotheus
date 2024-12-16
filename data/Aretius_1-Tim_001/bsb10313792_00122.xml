@@ -9,7 +9,7 @@
     </sourceImageInformation>
   </Description>
   <Tags>
-    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1851" LABEL="MainZone-P" DESCRIPTION="block type MainZone-P"/><OtherTag ID="BT1852" LABEL="MainZone-Head" DESCRIPTION="block type MainZone-Head"/><OtherTag ID="BT1853" LABEL="MainZone-P-Continued" DESCRIPTION="block type MainZone-P-Continued"/><OtherTag ID="BT1854" LABEL="MarginTextZone-ManuscriptAddendum" DESCRIPTION="block type MarginTextZone-ManuscriptAddendum"/><OtherTag ID="BT1855" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT1856" LABEL="MainZone-Entry" DESCRIPTION="block type MainZone-Entry"/><OtherTag ID="BT1857" LABEL="MainZone-Entry-Continued" DESCRIPTION="block type MainZone-Entry-Continued"/><OtherTag ID="BT1877" LABEL="GraphicZone-Decoration" DESCRIPTION="block type GraphicZone-Decoration"/>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1851" LABEL="MainZone-P" DESCRIPTION="block type MainZone-P"/><OtherTag ID="BT1852" LABEL="MainZone-Head" DESCRIPTION="block type MainZone-Head"/><OtherTag ID="BT1853" LABEL="MainZone-P-Continued" DESCRIPTION="block type MainZone-P-Continued"/><OtherTag ID="BT1854" LABEL="MarginTextZone-ManuscriptAddendum" DESCRIPTION="block type MarginTextZone-ManuscriptAddendum"/><OtherTag ID="BT1855" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT1856" LABEL="MainZone-Entry" DESCRIPTION="block type MainZone-Entry"/><OtherTag ID="BT1857" LABEL="MainZone-Entry-Continued" DESCRIPTION="block type MainZone-Entry-Continued"/><OtherTag ID="BT1877" LABEL="GraphicZone-Decoration" DESCRIPTION="block type GraphicZone-Decoration"/><OtherTag ID="BT1894" LABEL="MainZone-Other" DESCRIPTION="block type MainZone-Other"/>
     <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT636" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
@@ -112,12 +112,11 @@
                     WIDTH="793.0"
                     HEIGHT="60.0">
             <Shape><Polygon POINTS="220 266 220 281 440 285 441 285 442 285 443 285 450 279 451 278 455 279 473 285 474 285 475 285 476 285 476 285 476 284 482 279 485 277 552 277 561 278 598 284 599 284 600 284 616 277 621 276 650 276 652 277 659 283 660 283 661 283 662 283 663 283 680 277 689 283 690 283 691 283 692 283 693 283 713 277 719 283 720 283 721 283 722 284 747 284 747 283 849 275 856 275 857 275 877 282 878 282 879 282 915 274 918 274 919 274 929 281 930 281 931 281 932 281 1012 273 1012 260 1010 232 943 232 920 225 919 225 918 225 917 225 916 225 906 232 878 232 803 227 802 227 801 227 788 232 779 226 778 226 777 226 776 226 775 226 745 233 483 228 482 228 481 228 462 234 442 228 441 228 440 228 439 228 416 234 352 228 351 228 278 235 228 229 227 229 226 229 225 229 225 230 219 234 220 266"/></Shape>
-	    <String CONTENT="Præceptum eſt, ATTENDE TIBIET DO¬"
+	    <String CONTENT="Præceptum eſt, ATTENDE TIBI ET DO¬"
                     HPOS="219.0"
                     VPOS="225.0"
                     WIDTH="793.0"
-                    HEIGHT="60.0"
-                    WC="0.9804590145746866"></String>
+                    HEIGHT="60.0"></String>
           </TextLine>
           <TextLine ID="line_5"
                     TAGREFS="LT8"
@@ -369,18 +368,17 @@
           </TextLine>
           <TextLine ID="line_21"
                     TAGREFS="LT8"
-                    BASELINE="222 1095 532 1092" 
-                    HPOS="221.0"
-                    VPOS="1089.0"
-                    WIDTH="311.0"
-                    HEIGHT="23.0">
-            <Shape><Polygon POINTS="526 1089 516 1089 506 1089 496 1089 486 1089 476 1089 467 1089 457 1089 447 1089 437 1089 427 1089 417 1089 408 1089 398 1089 388 1089 378 1089 368 1089 358 1089 349 1089 339 1089 329 1089 319 1089 309 1089 299 1089 290 1089 280 1089 270 1089 260 1089 250 1089 240 1089 231 1089 221 1089 222 1095 222 1103 246 1112 247 1112 248 1112 249 1112 266 1107 319 1112 320 1112 321 1112 322 1112 332 1105 379 1111 380 1111 446 1102 477 1110 478 1110 479 1110 532 1100 532 1092 531 1089 526 1089"/></Shape>
-	    <String CONTENT="al coniiliendures"
-                    HPOS="221.0"
-                    VPOS="1089.0"
-                    WIDTH="311.0"
-                    HEIGHT="23.0"
-                    WC="0.9944398087613723"></String>
+                    BASELINE="232 1095 522 1094" 
+                    HPOS="231"
+                    VPOS="1056"
+                    WIDTH="290"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="231 1093 231 1108 244 1115 246 1115 247 1115 249 1115 265 1108 277 1115 278 1115 280 1115 281 1115 521 1108 521 1093 521 1068 411 1068 408 1065 387 1056 386 1056 342 1056 340 1056 339 1056 321 1065 317 1067 302 1064 260 1056 259 1056 231 1062 231 1093"/></Shape>
+	    <String CONTENT="tis commendare."
+                    HPOS="231"
+                    VPOS="1056"
+                    WIDTH="290"
+                    HEIGHT="59"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="214.171875"
@@ -428,12 +426,11 @@
                     WIDTH="789.0"
                     HEIGHT="56.0">
             <Shape><Polygon POINTS="223 1247 230 1252 231 1252 232 1252 233 1252 234 1252 249 1247 251 1246 253 1247 269 1254 270 1254 271 1254 272 1254 273 1254 282 1247 284 1246 298 1248 325 1251 326 1251 344 1249 357 1247 364 1249 386 1255 387 1255 388 1255 432 1251 434 1251 436 1251 464 1256 465 1256 466 1256 479 1252 487 1249 496 1252 511 1257 512 1257 513 1257 514 1257 524 1253 528 1253 581 1258 582 1259 605 1259 605 1258 606 1258 607 1258 612 1255 618 1251 693 1251 702 1256 703 1256 704 1256 705 1256 706 1256 717 1252 794 1252 841 1259 842 1259 843 1259 868 1254 883 1260 886 1262 887 1262 1011 1263 1012 1249 1012 1222 984 1216 983 1216 982 1216 968 1221 965 1222 960 1221 943 1214 942 1214 941 1214 940 1214 925 1220 921 1222 872 1222 867 1219 861 1215 860 1215 859 1215 858 1215 829 1218 827 1218 826 1218 798 1212 797 1212 683 1216 656 1216 655 1215 645 1210 644 1210 548 1209 547 1209 504 1212 468 1215 448 1211 431 1208 430 1208 375 1210 294 1213 233 1213 225 1207 224 1241 223 1247"/></Shape>
-	    <String CONTENT="SI FECERIS, SERVABIS TEIPSV M, hoc"
+	    <String CONTENT="SI FECERIS, SERVABIS TEIPSVM, hoc"
                     HPOS="223.0"
                     VPOS="1207.0"
                     WIDTH="789.0"
-                    HEIGHT="56.0"
-                    WC="0.9949663088602179"></String>
+                    HEIGHT="56.0"></String>
           </TextLine>
           <TextLine ID="line_25"
                     TAGREFS="LT8"
