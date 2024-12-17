@@ -9,7 +9,7 @@
     </sourceImageInformation>
   </Description>
   <Tags>
-    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1851" LABEL="MainZone-P" DESCRIPTION="block type MainZone-P"/><OtherTag ID="BT1852" LABEL="MainZone-Head" DESCRIPTION="block type MainZone-Head"/><OtherTag ID="BT1853" LABEL="MainZone-P-Continued" DESCRIPTION="block type MainZone-P-Continued"/><OtherTag ID="BT1854" LABEL="MarginTextZone-ManuscriptAddendum" DESCRIPTION="block type MarginTextZone-ManuscriptAddendum"/><OtherTag ID="BT1855" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT1856" LABEL="MainZone-Entry" DESCRIPTION="block type MainZone-Entry"/><OtherTag ID="BT1857" LABEL="MainZone-Entry-Continued" DESCRIPTION="block type MainZone-Entry-Continued"/><OtherTag ID="BT1877" LABEL="GraphicZone-Decoration" DESCRIPTION="block type GraphicZone-Decoration"/>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1851" LABEL="MainZone-P" DESCRIPTION="block type MainZone-P"/><OtherTag ID="BT1852" LABEL="MainZone-Head" DESCRIPTION="block type MainZone-Head"/><OtherTag ID="BT1853" LABEL="MainZone-P-Continued" DESCRIPTION="block type MainZone-P-Continued"/><OtherTag ID="BT1854" LABEL="MarginTextZone-ManuscriptAddendum" DESCRIPTION="block type MarginTextZone-ManuscriptAddendum"/><OtherTag ID="BT1855" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT1856" LABEL="MainZone-Entry" DESCRIPTION="block type MainZone-Entry"/><OtherTag ID="BT1857" LABEL="MainZone-Entry-Continued" DESCRIPTION="block type MainZone-Entry-Continued"/><OtherTag ID="BT1877" LABEL="GraphicZone-Decoration" DESCRIPTION="block type GraphicZone-Decoration"/><OtherTag ID="BT1894" LABEL="MainZone-Other" DESCRIPTION="block type MainZone-Other"/>
     <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT636" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
@@ -218,12 +218,11 @@
                     WIDTH="798.0"
                     HEIGHT="59.0">
             <Shape><Polygon POINTS="977 545 975 542 916 537 915 537 914 537 892 543 891 543 866 532 865 532 864 532 863 532 834 543 832 544 823 544 721 533 720 533 670 544 662 546 604 546 603 544 594 538 593 538 592 538 591 538 590 538 564 544 558 546 554 544 534 535 533 535 484 535 483 535 448 536 447 536 425 545 422 546 420 545 394 536 393 536 392 536 391 536 360 546 357 547 275 549 265 546 236 538 235 538 234 538 233 538 232 538 220 546 219 547 219 546 210 541 209 541 208 541 207 541 206 541 185 546 186 575 186 584 252 591 253 591 254 591 270 584 296 583 314 583 319 583 384 590 385 590 386 590 413 582 415 582 418 582 447 586 448 586 561 582 578 588 579 588 580 588 581 588 603 580 604 580 606 580 639 587 640 587 680 579 685 579 693 579 748 584 749 584 750 584 762 580 780 586 781 586 782 586 821 579 856 586 857 586 884 581 935 585 936 585 982 576 983 567 981 543 977 542 977 545"/></Shape>
-	    <String CONTENT="vidua erat, quia habuit τέκνα vel ἐκγονα à qui¬"
+	    <String CONTENT="vidua erat, quia habuit τέκνα vel ἔκγονα à qui¬"
                     HPOS="185.0"
                     VPOS="532.0"
                     WIDTH="798.0"
-                    HEIGHT="59.0"
-                    WC="0.9780174267292022"></String>
+                    HEIGHT="59.0"></String>
           </TextLine>
           <TextLine ID="line_11"
                     TAGREFS="LT8"
@@ -248,12 +247,11 @@
                     WIDTH="809.0"
                     HEIGHT="64.0">
             <Shape><Polygon POINTS="180 674 180 682 204 690 205 690 206 691 258 691 258 690 294 682 299 680 429 680 434 681 464 688 465 688 513 681 525 679 528 681 534 685 535 685 536 685 537 685 558 681 565 679 571 680 590 687 591 687 592 688 641 688 641 687 642 687 658 680 662 679 744 679 746 680 759 685 760 685 761 685 988 678 988 668 987 639 961 627 960 627 947 627 946 627 945 627 944 627 928 640 926 641 913 641 911 640 892 627 891 627 890 627 889 627 860 632 833 628 832 628 831 628 830 628 823 633 758 628 757 628 725 634 713 629 712 629 711 629 710 629 709 629 690 642 689 643 669 643 669 642 659 635 658 635 657 635 656 635 655 635 641 643 639 644 492 644 491 644 445 631 444 631 443 631 442 631 441 631 423 645 412 645 400 636 399 636 398 636 397 636 369 639 311 632 310 632 309 632 308 632 300 638 259 633 258 633 258 633 257 633 240 646 202 640 201 640 200 640 179 647 180 674"/></Shape>
-	    <String CONTENT="ra eſt vidua:vides οντως χήραν deſcribi quæ ſit"
+	    <String CONTENT="ra eſt vidua: vides ὄντως χήραν deſcribi quæ ſit"
                     HPOS="179.0"
                     VPOS="627.0"
                     WIDTH="809.0"
-                    HEIGHT="64.0"
-                    WC="0.9900835777322451"></String>
+                    HEIGHT="64.0"></String>
           </TextLine>
           <TextLine ID="line_13"
                     TAGREFS="LT8"
@@ -263,12 +261,11 @@
                     WIDTH="806.0"
                     HEIGHT="61.0">
             <Shape><Polygon POINTS="181 722 181 739 215 731 223 738 224 738 225 738 226 739 246 739 309 739 309 738 403 737 411 736 458 729 481 735 484 736 485 736 486 736 504 735 593 728 616 733 617 733 663 728 676 733 683 735 684 735 685 735 686 735 693 732 707 728 830 731 866 731 867 731 877 730 905 726 910 729 917 733 918 733 919 733 985 728 986 716 985 689 958 682 957 682 956 682 955 682 935 689 920 678 919 678 918 678 878 678 877 678 876 678 875 678 862 687 821 682 820 682 820 682 804 690 775 679 774 679 773 679 772 679 771 679 754 690 705 683 704 683 703 683 702 683 690 691 667 682 666 682 665 682 664 682 640 689 571 681 570 681 518 688 509 681 508 681 507 681 478 681 477 681 476 681 475 681 457 693 421 693 420 693 401 682 400 682 399 682 398 682 397 682 376 688 335 682 334 682 333 682 304 694 304 695 180 695 181 722"/></Shape>
-	    <String CONTENT="μεμονωμυη, hoc eſt, orbata &amp; marito &amp; ſobo¬"
+	    <String CONTENT="μεμονωμην, hoc eſt, orbata &amp; marito &amp; ſobo¬"
                     HPOS="180.0"
                     VPOS="678.0"
                     WIDTH="806.0"
-                    HEIGHT="61.0"
-                    WC="0.99739894756051"></String>
+                    HEIGHT="61.0"></String>
           </TextLine>
           <TextLine ID="line_14"
                     TAGREFS="LT8"
@@ -278,12 +275,11 @@
                     WIDTH="810.0"
                     HEIGHT="56.0">
             <Shape><Polygon POINTS="181 786 227 779 285 785 286 785 363 779 409 785 410 785 411 785 414 785 542 778 613 778 637 784 638 784 639 784 640 784 652 777 833 783 842 783 843 783 844 783 845 783 853 777 896 782 897 782 960 776 989 782 991 768 989 736 883 739 865 735 843 730 790 730 789 730 788 730 774 735 758 741 726 741 714 735 702 730 701 730 700 730 699 730 688 735 680 738 660 735 643 732 642 732 641 732 640 732 636 735 631 738 619 735 606 731 605 731 604 731 604 731 603 731 599 735 594 738 572 735 561 733 560 733 559 733 552 735 527 741 506 734 495 731 494 731 493 731 492 731 480 734 458 741 421 734 412 733 411 733 410 733 406 734 386 742 348 737 347 737 346 737 331 742 319 734 318 733 317 733 316 733 274 732 273 732 259 734 210 742 181 734 181 771 181 786"/></Shape>
-	    <String CONTENT="le. Additur mox altera nota vere viduæ, nec"
+	    <String CONTENT="le. Additur mox altera nota verè viduæ, nec"
                     HPOS="181.0"
                     VPOS="730.0"
                     WIDTH="810.0"
-                    HEIGHT="56.0"
-                    WC="0.9928413213685502"></String>
+                    HEIGHT="56.0"></String>
           </TextLine>
           <TextLine ID="line_15"
                     TAGREFS="LT8"
@@ -466,12 +462,11 @@
                     WIDTH="663"
                     HEIGHT="58">
             <Shape><Polygon POINTS="903 1341 268 1341 243 1344 244 1378 246 1399 266 1390 284 1399 403 1399 425 1390 451 1397 586 1390 596 1397 618 1390 903 1397 906 1377 903 1341"/></Shape>
-	    <String CONTENT="o Petulans autem, viuens mortua eſt"
+	    <String CONTENT="6 Petulans autem, vivens mortua eſt."
                     HPOS="243"
                     VPOS="1341"
                     WIDTH="663"
-                    HEIGHT="58"
-                    WC="0.9863677791186741"></String>
+                    HEIGHT="58"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="166"
@@ -519,12 +514,11 @@
                     WIDTH="815.0"
                     HEIGHT="79.0">
             <Shape><Polygon POINTS="174 1537 174 1556 208 1570 209 1570 210 1570 211 1570 226 1566 232 1571 233 1571 234 1571 235 1571 236 1571 268 1555 270 1553 341 1553 344 1554 364 1567 365 1567 366 1567 390 1569 391 1569 392 1569 419 1558 449 1566 450 1566 451 1566 452 1566 486 1552 489 1551 516 1551 517 1551 532 1563 533 1563 534 1563 535 1563 536 1563 548 1557 561 1562 561 1562 562 1562 563 1562 564 1562 578 1552 638 1566 639 1566 640 1566 686 1549 715 1565 716 1565 717 1565 801 1564 859 1559 860 1559 888 1547 890 1547 932 1551 933 1551 987 1545 988 1526 985 1496 946 1499 937 1496 926 1492 925 1492 924 1492 904 1497 896 1499 782 1501 766 1499 733 1493 733 1493 701 1499 688 1502 682 1500 664 1492 663 1492 635 1492 634 1492 564 1501 542 1504 526 1502 478 1494 477 1494 433 1495 432 1495 417 1503 414 1505 403 1504 369 1498 368 1498 367 1498 352 1504 347 1506 326 1505 292 1502 291 1502 290 1502 277 1505 269 1506 263 1505 244 1499 243 1499 242 1499 241 1499 225 1503 200 1498 199 1498 198 1498 173 1505 174 1537"/></Shape>
-	    <String CONTENT="ἐχουσαν τικνα, ἠ ἐκγονα. Hîc προσμίνεσαν αρο¬"
+	    <String CONTENT="ἔχουσαν τέκνα, ἤ ἔκγονα.  Hîc προσμένουσαν προ¬"
                     HPOS="173.0"
                     VPOS="1492.0"
                     WIDTH="815.0"
-                    HEIGHT="79.0"
-                    WC="0.9789897608757019"></String>
+                    HEIGHT="79.0"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="851"
@@ -542,12 +536,11 @@
                     WIDTH="134.0"
                     HEIGHT="68.0">
             <Shape><Polygon POINTS="849 1574 848 1596 872 1594 880 1600 885 1605 886 1605 887 1605 921 1606 922 1606 923 1606 929 1604 949 1597 978 1608 982 1579 982 1543 936 1543 935 1543 934 1543 929 1545 918 1548 911 1545 904 1540 903 1540 902 1540 901 1540 900 1540 889 1546 887 1547 849 1547 849 1574"/></Shape>
-	    <String CONTENT="σeυzãc"
+	    <String CONTENT="σευχαῖς"
                     HPOS="848.0"
                     VPOS="1540.0"
                     WIDTH="134.0"
-                    HEIGHT="68.0"
-                    WC="0.9539989147867475"></String>
+                    HEIGHT="68.0"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
