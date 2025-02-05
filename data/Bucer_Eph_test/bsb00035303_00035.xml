@@ -9,13 +9,13 @@
     </sourceImageInformation>
   </Description>
   <Tags>
-    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1790" LABEL="MainZone-Head" DESCRIPTION="block type MainZone-Head"/><OtherTag ID="BT1791" LABEL="MainZone-P" DESCRIPTION="block type MainZone-P"/><OtherTag ID="BT1792" LABEL="MarginTextZone-Notes" DESCRIPTION="block type MarginTextZone-Notes"/><OtherTag ID="BT1793" LABEL="MainZone-P-Continued" DESCRIPTION="block type MainZone-P-Continued"/>
-    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT769" LABEL="default" DESCRIPTION="line type default"/>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT2633" LABEL="MainZone-Head" DESCRIPTION="block type MainZone-Head"/><OtherTag ID="BT2634" LABEL="MainZone-P" DESCRIPTION="block type MainZone-P"/><OtherTag ID="BT2635" LABEL="MarginTextZone-Notes" DESCRIPTION="block type MarginTextZone-Notes"/><OtherTag ID="BT2636" LABEL="MainZone-P-Continued" DESCRIPTION="block type MainZone-P-Continued"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
   </Tags>
   <Layout>
     <Page WIDTH="1128"
           HEIGHT="1876"
-          PHYSICAL_IMG_NR="22"
+          PHYSICAL_IMG_NR="34"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
@@ -31,16 +31,16 @@
           <TextLine ID="line_0"
                     TAGREFS="LT10"
                     BASELINE="95 153 758 156" 
-                    HPOS="92"
-                    VPOS="114"
-                    WIDTH="665"
-                    HEIGHT="59">
+                    HPOS="92.0"
+                    VPOS="114.0"
+                    WIDTH="665.0"
+                    HEIGHT="59.0">
             <Shape><Polygon POINTS="92 164 115 173 117 173 118 173 755 170 757 154 754 114 93 114 93 151"/></Shape>
 	    <String CONTENT="M. BVCERI COMMENTARIVS"
-                    HPOS="92"
-                    VPOS="114"
-                    WIDTH="665"
-                    HEIGHT="59"></String>
+                    HPOS="92.0"
+                    VPOS="114.0"
+                    WIDTH="665.0"
+                    HEIGHT="59.0"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="45.0"
@@ -48,7 +48,7 @@
                    WIDTH="852.0"
                    HEIGHT="958.0"
                    ID="block_2"
-                   TAGREFS="BT1793">
+                   TAGREFS="BT2636">
           <Shape><Polygon POINTS="897 181 897 1139 45 1139 45 181"/></Shape>
           <TextLine ID="line_1"
                     TAGREFS="LT8"
@@ -337,7 +337,7 @@
                    WIDTH="838.0"
                    HEIGHT="404.0"
                    ID="block_0"
-                   TAGREFS="BT1791">
+                   TAGREFS="BT2634">
           <Shape><Polygon POINTS="898 1147 898 1528 60 1541 60 1137"/></Shape>
           <TextLine ID="line_20"
                     TAGREFS="LT8"
@@ -461,7 +461,7 @@
                    WIDTH="151.0"
                    HEIGHT="233.0"
                    ID="eSc_textblock_0b06774b"
-                   TAGREFS="BT1792">
+                   TAGREFS="BT2635">
           <Shape><Polygon POINTS="903 1217 903 1450 1054 1450 1054 1217"/></Shape>
           <TextLine ID="eSc_line_07e9db9d"
                     TAGREFS="LT8"
@@ -524,63 +524,63 @@
                     WC="0.9884352385997772"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="565"
-                   VPOS="1535"
-                   WIDTH="143"
-                   HEIGHT="47"
+        <TextBlock HPOS="565.0"
+                   VPOS="1535.0"
+                   WIDTH="143.0"
+                   HEIGHT="47.0"
                    ID="eSc_textblock_e4cb92d9"
                    TAGREFS="BT17">
           <Shape><Polygon POINTS="565 1535 565 1582 708 1582 708 1549"/></Shape>
           <TextLine ID="line_29"
                     TAGREFS="LT8"
                     BASELINE="574 1569 607 1569" 
-                    HPOS="574"
-                    VPOS="1531"
-                    WIDTH="33"
-                    HEIGHT="51">
+                    HPOS="574.0"
+                    VPOS="1531.0"
+                    WIDTH="33.0"
+                    HEIGHT="51.0">
             <Shape><Polygon POINTS="574 1582 607 1580 607 1569 607 1531 574 1531 574 1569"/></Shape>
 	    <String CONTENT="C"
-                    HPOS="574"
-                    VPOS="1531"
-                    WIDTH="33"
-                    HEIGHT="51"></String>
+                    HPOS="574.0"
+                    VPOS="1531.0"
+                    WIDTH="33.0"
+                    HEIGHT="51.0"></String>
           </TextLine>
           <TextLine ID="line_30"
                     TAGREFS="LT8"
                     BASELINE="644 1569 690 1571" 
-                    HPOS="641"
-                    VPOS="1544"
-                    WIDTH="48"
-                    HEIGHT="47">
+                    HPOS="641.0"
+                    VPOS="1544.0"
+                    WIDTH="48.0"
+                    HEIGHT="47.0">
             <Shape><Polygon POINTS="643 1568 641 1591 688 1589 689 1569 688 1544 643 1544 643 1568"/></Shape>
 	    <String CONTENT="2"
-                    HPOS="641"
-                    VPOS="1544"
-                    WIDTH="48"
-                    HEIGHT="47"
+                    HPOS="641.0"
+                    VPOS="1544.0"
+                    WIDTH="48.0"
+                    HEIGHT="47.0"
                     WC="0.9999207258224487"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="769"
-                   VPOS="1543"
-                   WIDTH="143"
-                   HEIGHT="35"
+        <TextBlock HPOS="769.0"
+                   VPOS="1543.0"
+                   WIDTH="143.0"
+                   HEIGHT="35.0"
                    ID="eSc_textblock_69c2b6a8"
                    TAGREFS="BT17">
           <Shape><Polygon POINTS="769 1543 769 1578 912 1578 912 1543"/></Shape>
           <TextLine ID="line_28"
                     TAGREFS="LT8"
                     BASELINE="781 1571 888 1567" 
-                    HPOS="777"
-                    VPOS="1517"
-                    WIDTH="110"
-                    HEIGHT="80">
+                    HPOS="777.0"
+                    VPOS="1517.0"
+                    WIDTH="110.0"
+                    HEIGHT="80.0">
             <Shape><Polygon POINTS="780 1569 780 1588 852 1597 854 1597 855 1597 887 1588 887 1566 880 1517 829 1530 777 1521 780 1569"/></Shape>
 	    <String CONTENT="Impelli"
-                    HPOS="777"
-                    VPOS="1517"
-                    WIDTH="110"
-                    HEIGHT="80"
+                    HPOS="777.0"
+                    VPOS="1517.0"
+                    WIDTH="110.0"
+                    HEIGHT="80.0"
                     WC="0.9740197573389325"></String>
           </TextLine>
         </TextBlock>
