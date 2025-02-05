@@ -12,8 +12,8 @@ characters:
   - t
   - u
   - a
-  - o
   - n
+  - o
   - r
   - m
   - ſ
@@ -24,120 +24,155 @@ characters:
   - p
   - ','
   - .
-  - q
   - b
-  - ¬
+  - q
   - h
-  - v
   - f
   - g
-  - æ
-  - I
-  - '&'
-  - ̀
+  - ¬
   - ̃
-  - E
-  - T
+  - æ
+  - '&'
+  - v
+  - I
   - ':'
+  - x
+  - E
+  - ̀
   - A
   - D
-  - x
   - S
-  - ο
-  - α
-  - ́
-  - M
+  - T
   - C
+  - α
+  - P
+  - ο
+  - ́
   - ι
   - N
-  - O
-  - P
-  - ν
+  - M
   - V
-  - ε
-  - R
   - τ
+  - ε
+  - O
+  - R
+  - ν
   - H
   - '1'
-  - ς
-  - ̓
-  - ρ
-  - η
   - σ
-  - π
-  - λ
   - υ
   - μ
+  - ρ
+  - 
+  - ̓
+  - ς
+  - Q
+  - j
+  - λ
+  - '!'
+  - η
   - L
+  - π
+  - ͂
   - κ
   - '2'
-  - Q
-  - ̂
-  - '3'
-  - ͂
-  - γ
+  - ˒
   - y
-  - '4'
-  - δ
   - ω
+  - ̨
+  - ;
+  - ·
+  - ¶
+  - '?'
+  - '3'
+  - '4'
+  - ̂
   - B
+  - γ
+  - œ
+  - φ
+  - δ
   - '5'
   - '6'
+  - θ
+  - '9'
   - F
   - G
-  - '9'
-  - φ
-  - ̔
-  - θ
-  - χ
-  - '8'
-  - œ
   - '7'
+  - ꝙ
+  - '8'
   - '0'
+  - χ
+  - ̔
+  - (
+  - 
+  - ß
   - β
-  - '?'
-  - Ε
-  - ζ
-  - ξ
-  - Α
+  - /
+  - )
   - X
-  - ψ
-  - Π
+  - ꝰ
   - z
-  - Τ
-  - ͅ
-  - Β
-  - ̈
+  - 
+  - ̧
+  - Α
   - Κ
-  - j
-  - ;
-  - K
+  - '|'
+  - Ε
+  - ͅ
+  - ꝓ
+  - ζ
+  - ꝗ
+  - ξ
+  - ̈
   - '-'
+  - k
+  - ']'
+  - ꝵ
+  - ψ
+  - Τ
+  - Π
+  - Β
+  - "'"
+  - U
+  - '*'
   - Z
   - Σ
+  - K
+  - ꝑ
+  - J
   - Y
   - Λ
-  - ꝓ
   - Δ
+  - ו
+  - ח
+  - Ꝙ
   - Μ
-  - ̨
-  - "'"
-  - ꝗ
+  - $
   - Ν
   - Ο
-  - (
-  - )
-  - ꝙ
+  - £
+  - א
+  - י
+  - ꝯ
   - Η
-  - $
-  - '|'
-  - k
   - Υ
   - Γ
   - ʹ
-  - ꝰ
-  - U
   - Θ
+  - ̶
+  - ̄
+  - „
+  - ש
+  - ל
+  - ד
+  - ב
+  - đ
+  - –
+  - ꝶ
+  - ’
+  - +
+  - Ι
   mode: NFD
 description: Data for data for Paul’s exegesis.
 format: Alto-XML
@@ -163,11 +198,11 @@ title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/16thExegesisDH/HTR_1-Timotheus
 volume:
-- count: 170515
+- count: 376357
   metric: characters
-- count: 164
+- count: 243
   metric: files
-- count: 5147
+- count: 10116
   metric: lines
-- count: 1068
+- count: 1796
   metric: regions
