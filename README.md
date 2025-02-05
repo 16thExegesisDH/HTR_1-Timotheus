@@ -6,7 +6,7 @@
 
 The data can be found at `./data/**/*xml` in ALTO format and follow [SegmOnto segmentation standards](https://segmonto.github.io). All data is produced using the eScriptorium interface and cataloged on [HTR-United](https://htr-united.github.io). The ALTO files have undergone manual correction, and the segmentation and transcription from the HTR are currently under review.
 
-## Project Overview
+## Project 
 
 This project focuses on the transcription and segmentation of 16th-century commentaries on the Pauline epistles. The data consists of various texts from notable authors, segmented and transcribed for further analysis. 
 
@@ -25,5 +25,7 @@ This project focuses on the transcription and segmentation of 16th-century comme
 
 - **directory**: [exegete's name]\_[name of epistle(abbreviation of Vulgate)]\_[optional suffix or test(if the dataset is uncomplet)]  
   Example: `Aretius_1-Tim_001`,`Bucer_Eph_test`
--**file**: from e-rara `[urn]`
-                mdz `[urn]`
+- **file**: from mdz [urn of the book]\_[urn_of the page]\.xml
+                    `bsb10313792_00016.xml`
+                             
+               
