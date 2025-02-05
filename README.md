@@ -10,7 +10,7 @@ The data can be found at `./data/**/*xml` in ALTO format and follow [SegmOnto se
 
 This project focuses on the transcription and segmentation of 16th-century commentaries on the Pauline epistles. The data consists of various texts from notable authors, segmented and transcribed for further analysis. 
 
-## Content Overview
+## Content 
 ![corpus](corpus/corpus_htr.csv)
 
 | Identifier        | Presegmented | Segmentation | Transcription         | Resp | Files Total (Processed) | Author                        | Title                                          | Printer          | Date | Place      | Link Digital Book                                                                 | Library                              | Call Number             |
@@ -20,12 +20,17 @@ This project focuses on the transcription and segmentation of 16th-century comme
 | Bucer_Eph_test   | yes         | yes         | yes (except Greek)   | NS   | 224 (1-224)[1-41]      | Martin Bucer                | *Epistolam ad Ephesios*                         | Anonymus        | 1527 | Strasbourg | [here](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00035303-6)           | München Bayerische Staatsbibliothek | Polem. 408 Beibd.2      |
 | Lefevre_Rm_test  | yes         | yes         | WP                   | MC   | 82 (203-284)[203-222]  | Jacques Lefèvre d'Étaples   | *Commentarii in epistolas d. Pauli*            | Anonymus        | 1512 | Paris      | [here](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11059254-9)           | Regensburg Staatliche Bibliothek    | 999/2Script.801         |
 
+## 📂 File Nomenclature
 
-### File Nomenclature
+### 1. **Directory Naming Convention**  
+- Format: `[exegete's name]_[name of epistle (abbreviation of Vulgate)]_[optional suffix or test (if the dataset is incomplete)]`  
+  - Example:  
+    - `Aretius_1-Tim_001`  
+    - `Bucer_Eph_test`  
 
-- **directory**: [exegete's name]\_[name of epistle(abbreviation of Vulgate)]\_[optional suffix or test(if the dataset is uncomplet)]  
-  Example: `Aretius_1-Tim_001`,`Bucer_Eph_test`
-- **file**: from mdz [urn of the book]\_[urn_of the page]\.xml
-  Example: `bsb10313792_00016.xml`
+### 2. **File Naming Convention**  
+- Format: `from mdz [URN of the book]_[URN of the page].xml`  
+  - Example:  
+    - `bsb10313792_00016.xml`
                              
                
