@@ -26,6 +26,6 @@ This project focuses on the transcription and segmentation of 16th-century comme
 - **directory**: [exegete's name]\_[name of epistle(abbreviation of Vulgate)]\_[optional suffix or test(if the dataset is uncomplet)]  
   Example: `Aretius_1-Tim_001`,`Bucer_Eph_test`
 - **file**: from mdz [urn of the book]\_[urn_of the page]\.xml
-                    `bsb10313792_00016.xml`
+  Example: `bsb10313792_00016.xml`
                              
                
