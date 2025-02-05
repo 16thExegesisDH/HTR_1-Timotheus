@@ -23,7 +23,7 @@ This project focuses on the transcription and segmentation of 16th-century comme
 
 ### File Nomenclature
 
-- **directory**: `[exegete's name]_[name of epistle(abbreviation of Vulgate)]_[optional suffix or test(if the dataset is not completly traited)]`  
+- **directory**: [exegete's name]_[name of epistle(abbreviation of Vulgate)]_[optional suffix or test(if the dataset is not completly traited)]  
   Example: `Aretius_1-Tim_001`,`Bucer_Eph_test`
 -**file**: from e-rara `[urn]`
                 mdz `[urn]`
