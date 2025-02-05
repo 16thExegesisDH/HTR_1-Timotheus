@@ -44,13 +44,13 @@
                     WC="0.9994167420599196"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="25.0"
-                   VPOS="169.0"
-                   WIDTH="845.0"
-                   HEIGHT="645.0"
+        <TextBlock HPOS="13"
+                   VPOS="169"
+                   WIDTH="857"
+                   HEIGHT="645"
                    ID="block_4"
                    TAGREFS="BT2636">
-          <Shape><Polygon POINTS="870 169 870 814 25 814 25 169"/></Shape>
+          <Shape><Polygon POINTS="870 169 870 814 25 814 13 171"/></Shape>
           <TextLine ID="line_1"
                     TAGREFS="LT8"
                     BASELINE="26 208 861 213" 
@@ -247,13 +247,13 @@
                     WC="0.9946149148439106"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="32.0"
-                   VPOS="828.0"
-                   WIDTH="840.0"
-                   HEIGHT="754.0"
+        <TextBlock HPOS="22"
+                   VPOS="828"
+                   WIDTH="864"
+                   HEIGHT="756"
                    ID="block_0"
                    TAGREFS="BT2634">
-          <Shape><Polygon POINTS="872 828 872 1582 32 1582 32 828"/></Shape>
+          <Shape><Polygon POINTS="872 828 886 1576 28 1584 22 828"/></Shape>
           <TextLine ID="line_14"
                     TAGREFS="LT8"
                     BASELINE="79 856 867 858" 
@@ -480,13 +480,13 @@
                     WC="0.9796570741905356"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="883.0"
-                   VPOS="925.0"
-                   WIDTH="181.0"
-                   HEIGHT="371.0"
+        <TextBlock HPOS="879"
+                   VPOS="925"
+                   WIDTH="185"
+                   HEIGHT="371"
                    ID="eSc_textblock_1834c0d8"
                    TAGREFS="BT2635">
-          <Shape><Polygon POINTS="883 925 883 1096 883 1296 1064 1296 1064 925"/></Shape>
+          <Shape><Polygon POINTS="879 925 883 1096 883 1296 1064 1296 1064 925"/></Shape>
           <TextLine ID="eSc_line_6d39b95a"
                     TAGREFS="LT8"
                     BASELINE="890 1004 1041 1001" 
