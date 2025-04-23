@@ -429,17 +429,17 @@
           </TextLine>
           <TextLine ID="eSc_line_3395917e"
                     TAGREFS="LT8"
-                    BASELINE="716 901 837 899" 
-                    HPOS="713"
-                    VPOS="854"
-                    WIDTH="123"
-                    HEIGHT="63">
-            <Shape><Polygon POINTS="714 899 714 916 833 917 836 898 833 858 713 854 714 899"/></Shape>
+                    BASELINE="718 901 830 901" 
+                    HPOS="717"
+                    VPOS="852"
+                    WIDTH="112"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="717 899 717 917 829 915 829 899 828 852 717 859 717 899"/></Shape>
             <String CONTENT="CAP.II."
-                    HPOS="713"
-                    VPOS="854"
-                    WIDTH="123"
-                    HEIGHT="63"
+                    HPOS="717"
+                    VPOS="852"
+                    WIDTH="112"
+                    HEIGHT="65"
                     ></String>
           </TextLine>
         </TextBlock>
@@ -493,7 +493,7 @@
                    VPOS="876"
                    WIDTH="128"
                    HEIGHT="31"
-                   ID="eSc_textblock_f68dc71e"
+                   ID="eSc_textblock_3e238ec7"
                    TAGREFS="BT2902">
           <Shape><Polygon POINTS="839 876 839 907 711 907 711 876"/></Shape>
         </TextBlock>
