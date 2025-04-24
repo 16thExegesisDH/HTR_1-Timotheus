@@ -50,7 +50,7 @@
                     VPOS="91"
                     WIDTH="69"
                     HEIGHT="53">
-            <Shape><Polygon POINTS="645 132 645 144 714 144 714 132 714 99 670 91 669 91 668 91 645 100 645 132"/></Shape>
+            <Shape><Polygon POINTS="645 144 714 144 714 132 714 99 670 91 669 91 668 91 645 100 645 132"/></Shape>
             <String CONTENT="120"
                     HPOS="645"
                     VPOS="91"
@@ -470,7 +470,7 @@
                    VPOS="109"
                    WIDTH="87"
                    HEIGHT="38"
-                   ID="eSc_textblock_75e09ce1"
+                   ID="eSc_textblock_e2f6e5cc"
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="640 109 640 147 727 147 727 109"/></Shape>
         </TextBlock>
