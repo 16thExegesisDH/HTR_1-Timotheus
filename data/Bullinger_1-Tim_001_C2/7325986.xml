@@ -44,13 +44,13 @@
                     WC="0.9997790626117161"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="291"
+        <TextBlock HPOS="279"
                    VPOS="145"
-                   WIDTH="664"
+                   WIDTH="676"
                    HEIGHT="438"
                    ID="block_3"
                    TAGREFS="BT2900">
-          <Shape><Polygon POINTS="955 145 955 583 291 583 291 145"/></Shape>
+          <Shape><Polygon POINTS="955 145 955 583 291 583 279 145"/></Shape>
           <TextLine ID="line_1"
                     TAGREFS="LT8"
                     BASELINE="288 181 950 171" 
@@ -456,7 +456,7 @@
                    WIDTH="131"
                    HEIGHT="65"
                    ID="block_0"
-                   >
+                   TAGREFS="BT2902">
           <Shape><Polygon POINTS="294 798 294 863 163 863 163 798"/></Shape>
           <TextLine ID="line_15"
                     TAGREFS="LT8"
