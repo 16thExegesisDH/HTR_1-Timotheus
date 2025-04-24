@@ -23,10 +23,11 @@ This project focuses on the transcription and segmentation of 16th-century comme
 ## 📂 File Nomenclature
 
 ### 1. **Directory Naming Convention**  
-- Format: `[exegete's name]_[name of epistle (abbreviation of Vulgate)]_[optional suffix or test (if the dataset is incomplete)]`  
+- Format: `[exegete's name]_[name of epistle (abbreviation of Vulgate)]_[optional suffix : C__chapter's_number (if it concerne one precise chapter)  or test (if the dataset is incomplete)]`  
   - Example:  
     - `Aretius_1-Tim_001`  
-    - `Bucer_Eph_test`  
+    - `Bucer_Eph_test`
+    - `Bullinger_1-Tim_C_2`
 
 ### 2. **File Naming Convention**  
 - Format: `from mdz [URN of the book]_[URN of the page].xml`  
