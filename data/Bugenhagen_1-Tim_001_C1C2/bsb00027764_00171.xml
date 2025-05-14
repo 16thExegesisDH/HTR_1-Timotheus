@@ -28,6 +28,29 @@
                    ID="block_2"
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="732 147 732 209 92 209 92 147"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT10"
+                    BASELINE="94 191 464 194 725 183" 
+                    HPOS="92"
+                    VPOS="147"
+                    WIDTH="631"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="703 147 687 147 671 147 655 147 640 147 624 147 608 147 593 147 577 147 561 147 546 147 530 147 514 147 499 147 483 147 467 147 451 147 436 147 420 147 404 147 389 147 373 147 364 147 105 150 92 189 92 211 723 199 723 182 718 147"/></Shape>
+            <String CONTENT="IN EPI. PAV. AD TIM. I."
+                    HPOS="92"
+                    VPOS="147"
+                    WIDTH="631"
+                    HEIGHT="64"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="764"
+                   VPOS="144"
+                   WIDTH="82"
+                   HEIGHT="51"
+                   ID="eSc_textblock_6077272e"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="764 144 764 195 846 195 846 144"/></Shape>
           <TextLine ID="eSc_line_2648757c"
                     TAGREFS="LT8"
                     BASELINE="768 181 829 179" 
@@ -35,27 +58,12 @@
                     VPOS="112"
                     WIDTH="63"
                     HEIGHT="87">
-            <Shape><Polygon POINTS="767 199 828 194 828 178 823 127 801 128 765 112 767 180 767 199"/></Shape>
+            <Shape><Polygon POINTS="828 194 828 178 823 127 801 128 765 112 767 180 767 199"/></Shape>
             <String CONTENT="86"
                     HPOS="765"
                     VPOS="112"
                     WIDTH="63"
                     HEIGHT="87"
-                    ></String>
-          </TextLine>
-          <TextLine ID="line_0"
-                    TAGREFS="LT8"
-                    BASELINE="94 191 464 194 725 183" 
-                    HPOS="92"
-                    VPOS="147"
-                    WIDTH="631"
-                    HEIGHT="64">
-            <Shape><Polygon POINTS="718 147 703 147 687 147 671 147 655 147 640 147 624 147 608 147 593 147 577 147 561 147 546 147 530 147 514 147 499 147 483 147 467 147 451 147 436 147 420 147 404 147 389 147 373 147 364 147 105 150 92 189 92 211 723 199 723 182 718 147 718 147"/></Shape>
-            <String CONTENT="IN EPI. PAV. AD TIM. I."
-                    HPOS="92"
-                    VPOS="147"
-                    WIDTH="631"
-                    HEIGHT="64"
                     ></String>
           </TextLine>
         </TextBlock>
@@ -479,14 +487,6 @@
                     HEIGHT="89.0"
                     WC="0.989515374291618"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="764"
-                   VPOS="144"
-                   WIDTH="82"
-                   HEIGHT="51"
-                   ID="eSc_textblock_6077272e"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="764 144 764 195 846 195 846 144"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
