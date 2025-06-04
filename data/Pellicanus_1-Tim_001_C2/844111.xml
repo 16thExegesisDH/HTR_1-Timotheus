@@ -692,13 +692,13 @@
                     ></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="34"
-                   VPOS="1120"
-                   WIDTH="723"
-                   HEIGHT="170"
-                   ID="block_8"
-                   TAGREFS="BT3118">
-          <Shape><Polygon POINTS="757 1290 36 1290 34 1183 124 1185 126 1120 757 1130"/></Shape>
+        <TextBlock HPOS="125"
+                   VPOS="1083"
+                   WIDTH="140"
+                   HEIGHT="34"
+                   ID="eSc_textblock_fe236880"
+                   TAGREFS="BT3119">
+          <Shape><Polygon POINTS="125 1083 126 1114 265 1117 265 1086"/></Shape>
           <TextLine ID="line_40"
                     TAGREFS="LT8"
                     BASELINE="132 1106 258 1106" 
@@ -706,7 +706,7 @@
                     VPOS="1078"
                     WIDTH="126"
                     HEIGHT="39">
-            <Shape><Polygon POINTS="131 1105 131 1117 257 1117 257 1105 257 1078 131 1078 131 1105"/></Shape>
+            <Shape><Polygon POINTS="131 1117 257 1117 257 1105 257 1078 131 1078 131 1105"/></Shape>
             <String CONTENT="Idelis ſermo."
                     HPOS="131"
                     VPOS="1078"
@@ -714,6 +714,14 @@
                     HEIGHT="39"
                     WC="0.966596034856943"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="34"
+                   VPOS="1120"
+                   WIDTH="723"
+                   HEIGHT="170"
+                   ID="block_8"
+                   TAGREFS="BT3118">
+          <Shape><Polygon POINTS="757 1290 36 1290 34 1183 124 1185 126 1120 757 1130"/></Shape>
           <TextLine ID="line_41"
                     TAGREFS="LT8"
                     BASELINE="147 1134 286 1133 747 1141" 
@@ -911,14 +919,6 @@
                     HEIGHT="26"
                     ></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="125"
-                   VPOS="1083"
-                   WIDTH="140"
-                   HEIGHT="34"
-                   ID="eSc_textblock_fe236880"
-                   TAGREFS="BT3119">
-          <Shape><Polygon POINTS="125 1083 126 1114 265 1117 265 1086"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
