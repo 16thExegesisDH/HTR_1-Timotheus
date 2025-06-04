@@ -23,11 +23,11 @@
                   HEIGHT="1490">
         <TextBlock HPOS="147"
                    VPOS="139"
-                   WIDTH="474"
+                   WIDTH="476"
                    HEIGHT="54"
                    ID="block_1"
                    TAGREFS="BT18">
-          <Shape><Polygon POINTS="621 139 621 193 147 193 147 139"/></Shape>
+          <Shape><Polygon POINTS="621 139 623 179 147 193 147 139"/></Shape>
           <TextLine ID="line_0"
                     TAGREFS="LT8"
                     BASELINE="148 187 572 165 618 164" 

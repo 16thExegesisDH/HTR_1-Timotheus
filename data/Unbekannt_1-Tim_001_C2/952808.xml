@@ -434,7 +434,7 @@
                    HEIGHT="91"
                    ID="block_6"
                    TAGREFS="BT3109">
-          <Shape><Polygon POINTS="876 1092 876 1183 267 1183 267 1092"/></Shape>
+          <Shape><Polygon POINTS="875 1097 876 1183 267 1183 267 1092"/></Shape>
           <TextLine ID="line_24"
                     TAGREFS="LT8"
                     BASELINE="276 1115 869 1121" 
@@ -467,12 +467,12 @@
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="757"
-                   VPOS="1178"
+                   VPOS="1187"
                    WIDTH="117"
-                   HEIGHT="41"
+                   HEIGHT="32"
                    ID="block_2"
                    TAGREFS="BT17">
-          <Shape><Polygon POINTS="874 1178 874 1219 757 1219 757 1178"/></Shape>
+          <Shape><Polygon POINTS="873 1187 874 1219 757 1219 757 1187"/></Shape>
           <TextLine ID="line_26"
                     TAGREFS="LT8"
                     BASELINE="758 1203 871 1203" 

@@ -321,7 +321,7 @@
                    HEIGHT="361"
                    ID="block_4"
                    TAGREFS="BT3109">
-          <Shape><Polygon POINTS="706 842 706 1203 93 1203 93 842"/></Shape>
+          <Shape><Polygon POINTS="706 842 706 1185 93 1203 93 842"/></Shape>
           <TextLine ID="line_17"
                     TAGREFS="LT8"
                     BASELINE="128 880 476 865 692 859" 
