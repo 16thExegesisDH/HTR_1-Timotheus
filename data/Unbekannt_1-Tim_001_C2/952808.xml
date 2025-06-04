@@ -21,13 +21,13 @@
                   VPOS="0"
                   WIDTH="1000"
                   HEIGHT="1490">
-        <TextBlock HPOS="358"
-                   VPOS="131"
-                   WIDTH="459"
-                   HEIGHT="39"
-                   ID="block_1"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="817 131 817 170 358 170 358 131"/></Shape>
+        <TextBlock HPOS="272"
+                   VPOS="127"
+                   WIDTH="63"
+                   HEIGHT="41"
+                   ID="eSc_textblock_e2ffade7"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="272 127 272 168 335 168 335 127"/></Shape>
           <TextLine ID="line_0"
                     TAGREFS="LT8"
                     BASELINE="286 155 335 155" 
@@ -35,7 +35,7 @@
                     VPOS="119"
                     WIDTH="49"
                     HEIGHT="73">
-            <Shape><Polygon POINTS="285 153 285 183 332 192 334 153 334 120 285 119 285 153"/></Shape>
+            <Shape><Polygon POINTS="285 183 332 192 334 153 334 120 285 119 285 153"/></Shape>
             <String CONTENT="44"
                     HPOS="285"
                     VPOS="119"
@@ -43,6 +43,14 @@
                     HEIGHT="73"
                     WC="0.9999982714653015"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="358"
+                   VPOS="131"
+                   WIDTH="459"
+                   HEIGHT="39"
+                   ID="block_1"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="817 131 817 170 358 170 358 131"/></Shape>
           <TextLine ID="eSc_line_45111390"
                     TAGREFS="LT8"
                     BASELINE="365 158 821 160" 
@@ -488,14 +496,6 @@
                     HEIGHT="61.0"
                     ></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="272"
-                   VPOS="127"
-                   WIDTH="63"
-                   HEIGHT="41"
-                   ID="eSc_textblock_e2ffade7"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="272 127 272 168 335 168 335 127"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
