@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+    xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
+    <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+            <fileName>16892665.jpg</fileName>
+        </sourceImageInformation>
+        <Processing ID="OCR_0">
+            <processingCategory>other</processingCategory>
+            <processingStepDescription>unknown</processingStepDescription>
+            <processingSoftware>
+                <softwareName>kraken</softwareName>
+                <softwareVersion>4.3.13</softwareVersion>
+            </processingSoftware>
+        </Processing>
+    </Description>
+    <Tags>
+        <OtherTag ID="TYPE_1" LABEL="DefaultLine"/>
+        <OtherTag ID="TYPE_2" LABEL="TableZone-Continued"/>
+        <OtherTag ID="TYPE_3" LABEL="MainZone-Sp-Continued"/>
+        <OtherTag ID="TYPE_4" LABEL="GraphicZone-Decoration"/>
+        <OtherTag ID="TYPE_5" LABEL="TitlePageZone-Index"/>
+        <OtherTag ID="TYPE_6" LABEL="FigureZone"/>
+        <OtherTag ID="TYPE_7" LABEL="MainZone-Head"/>
+        <OtherTag ID="TYPE_8" LABEL="DigitizationArtefactZone"/>
+        <OtherTag ID="TYPE_9" LABEL="MainZone-List-Continued"/>
+        <OtherTag ID="TYPE_10" LABEL="StampZone-Sticker"/>
+        <OtherTag ID="TYPE_11" LABEL="GraphicZone-Head"/>
+        <OtherTag ID="TYPE_12" LABEL="NumberingZone"/>
+        <OtherTag ID="TYPE_13" LABEL="MarginTextZone-Notes-Continued"/>
+        <OtherTag ID="TYPE_14" LABEL="GraphicZone-FigDesc"/>
+        <OtherTag ID="TYPE_15" LABEL="MarginTextZone-Notes"/>
+        <OtherTag ID="TYPE_16" LABEL="MainZone-Other"/>
+        <OtherTag ID="TYPE_17" LABEL="TableZone-Head"/>
+        <OtherTag ID="TYPE_18" LABEL="GraphicZone"/>
+        <OtherTag ID="TYPE_19" LABEL="MainZone-Entry"/>
+        <OtherTag ID="TYPE_20" LABEL="MainZone-Form"/>
+        <OtherTag ID="TYPE_21" LABEL="RunningTitleZone"/>
+        <OtherTag ID="TYPE_22" LABEL="MainZone-Lg"/>
+        <OtherTag ID="TYPE_23" LABEL="MainZone-Entry-Continued"/>
+        <OtherTag ID="TYPE_24" LABEL="MainZone-Signature"/>
+        <OtherTag ID="TYPE_25" LABEL="DropCapitalZone"/>
+        <OtherTag ID="TYPE_26" LABEL="AdvertisementZone"/>
+        <OtherTag ID="TYPE_27" LABEL="TitlePageZone"/>
+        <OtherTag ID="TYPE_28" LABEL="GraphicZone-TextualContent"/>
+        <OtherTag ID="TYPE_29" LABEL="QuireMarksZone"/>
+        <OtherTag ID="TYPE_30" LABEL="MainZone-Date"/>
+        <OtherTag ID="TYPE_31" LABEL="TableZone"/>
+        <OtherTag ID="TYPE_32" LABEL="FigureZone-Head"/>
+        <OtherTag ID="TYPE_33" LABEL="StampZone"/>
+        <OtherTag ID="TYPE_34" LABEL="MainZone-Lg-Continued"/>
+        <OtherTag ID="TYPE_35" LABEL="GraphicZone-Part"/>
+        <OtherTag ID="TYPE_36" LABEL="MainZone-P-Continued"/>
+        <OtherTag ID="TYPE_37" LABEL="MainZone-Sp"/>
+        <OtherTag ID="TYPE_38" LABEL="GraphicZone-Maths"/>
+        <OtherTag ID="TYPE_39" LABEL="MarginTextZone-ManuscriptAddendum"/>
+        <OtherTag ID="TYPE_40" LABEL="MainZone-P"/>
+        <OtherTag ID="TYPE_41" LABEL="FigureZone-FigDesc"/>
+        <OtherTag ID="TYPE_42" LABEL="MainZone-List"/>
+    </Tags>
+    <Layout>
+        <Page WIDTH="1000" HEIGHT="1564" PHYSICAL_IMG_NR="0" ID="page_0">
+            <PrintSpace HPOS="0" VPOS="0" WIDTH="1000" HEIGHT="1564">
+                <TextBlock ID="block_7" HPOS="209" VPOS="126" WIDTH="411" HEIGHT="26" TAGREFS="TYPE_21">
+                    <Shape>
+                        <Polygon POINTS="209.21932983398438 126.16792297363281 620.3809204101562 126.16792297363281 620.3809204101562 152.0922393798828 209.21932983398438 152.0922393798828 209.21932983398438 126.16792297363281"/>
+                    </Shape>
+                    <TextLine ID="line_0" HPOS="208" VPOS="129" WIDTH="408" HEIGHT="23" BASELINE="209 142 616 144" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="608 129 600 129 591 129 582 129 573 129 565 129 556 129 547 129 539 129 530 129 521 129 513 129 504 129 495 129 486 129 478 129 469 129 460 129 452 129 443 129 434 129 426 129 417 129 408 129 400 129 391 129 382 129 373 129 365 129 356 129 347 129 339 129 330 129 321 129 313 129 304 129 295 129 286 129 278 129 269 129 260 129 252 129 243 129 234 129 226 129 217 129 209 129 209 142 208 152 615 152 616 144 615 129 608 129"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+</TextBlock>
+                <TextBlock ID="block_11" HPOS="76" VPOS="148" WIDTH="687" HEIGHT="773" TAGREFS="TYPE_36">
+                    <Shape>
+                        <Polygon POINTS="76.18830108642578 148.3677215576172 763.1307983398438 148.3677215576172 763.1307983398438 921.713134765625 76.18830108642578 921.713134765625 76.18830108642578 148.3677215576172"/>
+                    </Shape>
+                    <TextLine ID="line_1" HPOS="74" VPOS="137" WIDTH="686" HEIGHT="36" BASELINE="74 163 760 165" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="508 144 500 144 491 144 485 144 471 148 460 144 456 144 451 144 444 149 355 149 305 148 300 144 300 143 300 143 299 143 298 143 297 143 286 146 274 143 273 143 265 143 256 143 247 143 246 143 227 147 183 140 182 140 181 140 153 147 124 139 115 138 114 138 113 138 113 138 112 138 109 139 102 145 74 140 74 163 74 173 759 172 760 165 760 138 635 137 634 137 633 137 631 138 608 147 595 145 594 145 593 145 584 149 528 149 513 144 508 144"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_2" HPOS="75" VPOS="168" WIDTH="685" HEIGHT="28" BASELINE="75 185 760 186" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="75 185 75 196 759 194 760 186 758 168 75 169 75 185"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_3" HPOS="74" VPOS="185" WIDTH="766" HEIGHT="33" BASELINE="74 207 743 207 794 201 840 202" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="752 186 751 186 727 192 608 187 600 187 600 187 596 187 563 192 553 187 552 187 551 187 550 187 549 187 548 188 540 192 409 192 386 189 366 187 366 187 347 190 330 192 305 190 255 186 254 186 224 191 215 192 74 192 74 207 74 216 731 218 732 218 839 213 840 202 839 185 760 185 759 185 755 185 752 185 752 186"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_4" HPOS="73" VPOS="209" WIDTH="678" HEIGHT="30" BASELINE="74 229 751 227" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="74 229 74 237 749 239 751 227 749 214 524 214 512 209 511 209 510 209 451 213 428 209 427 209 386 214 367 210 366 210 207 210 206 210 183 214 145 210 144 210 143 210 142 210 137 215 98 215 80 210 80 210 79 210 78 210 77 210 77 211 73 213 74 229"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_5" HPOS="75" VPOS="229" WIDTH="748" HEIGHT="33" BASELINE="75 250 747 250 771 241 823 239" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="75 262 230 258 479 259 773 262 773 262 823 257 823 239 821 229 762 229 761 229 760 229 760 229 752 234 75 231 75 250 75 262"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_6" HPOS="76" VPOS="255" WIDTH="684" HEIGHT="27" BASELINE="77 269 760 272" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="77 269 76 277 101 282 102 282 759 281 760 272 759 256 77 255 77 269"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_7" HPOS="79" VPOS="273" WIDTH="762" HEIGHT="31" BASELINE="80 291 734 293 841 298" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="80 291 79 298 126 304 126 304 840 303 841 298 841 278 126 278 80 273 80 291"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_8" HPOS="76" VPOS="296" WIDTH="744" HEIGHT="28" BASELINE="77 312 820 317" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="77 312 76 319 819 324 820 317 820 301 77 296 77 312"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_9" HPOS="78" VPOS="320" WIDTH="762" HEIGHT="28" BASELINE="78 336 840 336" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="78 336 78 344 839 348 840 336 840 322 78 320 78 336"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_10" HPOS="77" VPOS="341" WIDTH="725" HEIGHT="24" BASELINE="78 355 802 357" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="78 355 77 363 800 365 802 357 801 341 78 341 78 355"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_11" HPOS="77" VPOS="359" WIDTH="683" HEIGHT="30" BASELINE="77 377 760 377" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="77 377 77 389 760 387 760 377 760 364 746 359 746 359 745 359 711 364 709 364 705 364 599 359 598 359 571 363 563 364 561 363 557 359 556 359 555 359 554 359 531 363 521 364 518 363 510 359 509 359 508 359 484 362 470 364 467 362 464 359 463 359 462 359 461 359 439 362 421 364 414 362 407 359 406 359 406 359 405 359 398 361 390 364 371 361 355 359 354 359 353 359 353 359 351 361 346 364 306 364 247 360 226 359 226 359 225 359 221 360 206 364 200 360 200 359 199 359 198 359 131 359 130 359 128 359 106 364 77 359 77 377"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_12" HPOS="77" VPOS="382" WIDTH="681" HEIGHT="31" BASELINE="78 398 758 401" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="78 398 77 405 91 410 92 410 93 410 261 408 304 407 309 408 323 411 324 411 325 411 441 410 531 408 541 410 548 412 549 412 550 413 757 413 758 401 756 382 78 382 78 398"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_13" HPOS="80" VPOS="401" WIDTH="760" HEIGHT="32" BASELINE="80 420 745 421 772 412 840 412" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="541 401 540 401 533 402 496 407 388 407 371 402 366 401 365 401 364 401 350 402 313 406 284 403 271 401 270 401 259 403 234 406 207 403 193 401 192 401 182 403 165 406 143 403 128 401 127 401 80 403 80 420 80 432 116 428 138 432 140 432 141 433 246 433 246 432 247 432 252 431 266 428 288 431 299 432 300 432 300 432 305 430 313 428 477 430 737 432 738 432 739 432 758 427 760 427 839 427 840 412 839 401 760 401 760 401 759 401 758 401 750 406 680 402 680 402 679 402 678 402 672 407 565 407 545 402 542 401 541 401"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_14" HPOS="78" VPOS="428" WIDTH="676" HEIGHT="27" BASELINE="78 441 754 441" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="78 441 78 455 754 455 754 441 754 428 78 428 78 441"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_15" HPOS="78" VPOS="443" WIDTH="762" HEIGHT="34" BASELINE="78 461 685 463 746 464 766 471 840 471" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="78 461 78 473 217 470 233 475 235 475 236 475 237 475 242 475 272 470 287 475 291 476 292 476 293 477 433 477 433 476 433 476 434 476 452 471 519 476 531 477 532 477 541 477 593 472 839 477 840 471 840 454 758 453 741 446 740 446 740 446 739 446 729 450 647 446 646 446 620 450 601 445 600 445 600 445 561 450 509 445 508 445 507 445 493 450 438 444 437 444 436 444 423 450 406 444 405 444 353 444 353 444 352 444 340 450 331 445 330 445 329 445 306 450 291 445 290 445 289 445 213 449 185 444 184 444 154 450 153 450 133 444 133 444 132 444 131 444 117 450 116 450 98 443 97 443 96 443 95 443 78 449 78 461"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_16" HPOS="76" VPOS="464" WIDTH="764" HEIGHT="34" BASELINE="77 482 709 485 752 487 768 491 840 490" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="815 472 806 472 798 472 789 472 780 472 772 472 763 471 760 470 680 467 680 467 637 471 549 467 548 467 547 467 533 471 532 471 531 471 520 466 519 466 518 466 401 470 397 470 393 470 320 465 319 465 318 465 306 470 248 470 237 470 237 470 202 464 201 464 200 464 191 469 98 464 97 464 77 469 77 482 76 491 838 498 840 490 838 473 815 472 815 472"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_17" HPOS="76" VPOS="485" WIDTH="717" HEIGHT="34" BASELINE="77 503 739 507 793 511" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="77 503 76 516 792 519 793 511 793 493 453 487 452 487 380 490 375 490 372 490 324 486 323 486 199 490 191 490 190 490 172 485 171 485 170 485 77 489 77 503"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_18" HPOS="77" VPOS="510" WIDTH="698" HEIGHT="30" BASELINE="78 525 740 528 775 531" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="78 525 77 536 773 540 775 531 774 515 78 510 78 525"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_19" HPOS="76" VPOS="529" WIDTH="764" HEIGHT="29" BASELINE="77 547 840 550" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="76 557 839 558 840 550 839 532 652 536 485 531 484 531 459 536 421 530 420 530 400 535 385 530 384 530 383 530 382 530 372 536 273 536 153 530 152 530 86 533 78 529 77 547 76 557"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_20" HPOS="78" VPOS="552" WIDTH="761" HEIGHT="28" BASELINE="78 568 839 570" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="78 568 78 580 838 580 839 570 838 556 78 552 78 568"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_21" HPOS="78" VPOS="576" WIDTH="764" HEIGHT="29" BASELINE="78 590 842 590" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="78 590 78 600 221 600 227 604 228 604 229 604 230 604 231 604 240 600 278 604 279 605 763 605 763 604 764 604 765 604 772 600 800 604 801 604 841 599 842 590 841 577 78 576 78 590"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_22" HPOS="80" VPOS="595" WIDTH="761" HEIGHT="27" BASELINE="80 611 841 611" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="80 611 80 622 841 622 841 611 841 595 80 595 80 611"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_23" HPOS="80" VPOS="617" WIDTH="738" HEIGHT="31" BASELINE="80 631 744 636 772 630 818 629" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="80 631 80 642 521 642 526 642 561 647 562 647 620 642 626 642 627 642 633 647 633 647 634 647 635 647 683 643 690 648 691 648 692 648 693 648 817 642 818 629 816 619 80 617 80 631"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_24" HPOS="80" VPOS="634" WIDTH="763" HEIGHT="35" BASELINE="80 653 753 656 770 649 843 649" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="80 653 80 666 114 662 187 666 206 667 207 667 208 667 211 666 220 662 234 666 238 667 239 667 442 668 443 668 465 665 480 663 493 665 521 669 522 669 589 665 753 669 753 669 754 669 755 669 762 664 763 664 842 664 843 649 841 636 700 642 612 636 611 636 610 636 600 642 542 642 481 636 480 636 480 636 479 636 478 636 470 641 406 636 405 636 404 636 391 642 316 642 176 636 175 636 140 640 124 635 122 634 121 634 120 634 120 634 118 635 106 639 80 635 80 653"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_25" HPOS="80" VPOS="659" WIDTH="677" HEIGHT="31" BASELINE="80 674 757 682" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="80 674 80 681 755 690 757 682 757 664 80 659 80 674"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_26" HPOS="80" VPOS="676" WIDTH="763" HEIGHT="39" BASELINE="80 695 723 700 751 701 772 708 843 706" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="80 695 80 704 343 710 344 710 381 709 414 707 420 709 425 711 426 711 426 711 503 710 628 708 680 712 693 713 693 713 699 712 725 709 733 713 736 714 737 714 738 715 842 715 843 706 841 689 584 681 583 681 568 684 557 686 509 682 474 681 473 681 459 682 430 685 424 682 421 680 420 680 420 680 419 680 411 682 400 683 346 680 306 678 306 678 305 678 300 680 287 683 281 679 280 678 280 678 279 678 278 678 259 679 204 682 196 678 194 677 193 677 193 677 183 677 119 682 80 676 80 695"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_27" HPOS="80" VPOS="696" WIDTH="761" HEIGHT="39" BASELINE="80 715 735 722 774 727 841 728" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="801 708 793 708 784 708 775 708 766 707 765 706 550 701 549 701 506 705 498 705 496 704 486 700 485 700 484 700 453 704 450 704 418 704 117 696 116 696 80 700 80 715 80 728 213 726 304 731 313 731 313 731 329 731 482 728 840 735 841 728 841 709 802 707 801 708"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_28" HPOS="80" VPOS="720" WIDTH="739" HEIGHT="35" BASELINE="80 738 695 742 819 747" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="80 738 80 749 817 755 819 747 819 730 776 728 733 725 733 725 732 725 731 725 725 728 724 729 723 728 713 724 712 724 711 724 634 728 615 728 613 728 604 723 603 723 602 723 530 727 506 728 503 727 497 722 496 722 495 722 494 722 426 726 399 727 393 725 379 722 378 722 377 722 376 722 366 725 364 726 361 725 351 722 350 722 349 722 348 722 341 725 339 726 324 724 286 721 209 721 208 721 207 721 202 723 198 725 180 723 152 720 151 720 80 722 80 738"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_29" HPOS="79" VPOS="744" WIDTH="685" HEIGHT="29" BASELINE="80 759 764 765" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="662 747 661 746 80 744 80 759 79 770 762 773 764 765 763 747 662 746 662 747"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_30" HPOS="80" VPOS="766" WIDTH="685" HEIGHT="29" BASELINE="80 781 765 786" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="80 781 80 793 763 795 765 786 765 771 80 766 80 781"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_31" HPOS="79" VPOS="788" WIDTH="686" HEIGHT="31" BASELINE="80 801 765 807" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="80 801 79 811 763 819 765 807 763 789 667 793 653 788 651 788 650 788 80 788 80 801"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_32" HPOS="80" VPOS="815" WIDTH="685" HEIGHT="25" BASELINE="80 823 765 828" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="663 815 654 815 646 815 637 815 628 815 620 815 611 815 602 815 593 815 585 815 576 815 567 815 559 815 550 815 541 815 533 815 524 815 515 815 506 815 498 815 489 815 480 815 472 815 463 815 454 815 446 815 437 815 428 815 420 815 411 815 402 815 393 815 385 815 376 815 367 815 359 815 350 815 341 815 333 815 324 815 315 815 306 815 298 815 289 815 280 815 272 815 263 815 254 815 246 815 237 815 228 815 220 815 211 815 202 815 193 815 185 815 176 815 167 815 159 815 150 815 141 815 133 815 124 815 115 815 106 815 98 815 89 815 80 815 80 823 80 835 763 840 765 828 764 815 663 815 663 815"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_33" HPOS="80" VPOS="830" WIDTH="685" HEIGHT="31" BASELINE="80 845 765 850" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="80 845 80 856 763 861 765 850 764 835 80 830 80 845"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_34" HPOS="80" VPOS="850" WIDTH="685" HEIGHT="31" BASELINE="81 865 765 872" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="81 865 80 874 763 881 765 872 764 858 679 853 678 853 618 856 607 856 583 855 451 851 450 851 428 854 425 854 424 854 419 850 418 850 417 850 416 850 81 850 81 865"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_35" HPOS="81" VPOS="868" WIDTH="684" HEIGHT="41" BASELINE="82 887 765 894" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="247 871 239 871 238 870 82 868 82 887 81 898 680 909 681 909 764 903 765 894 764 879 253 871 247 871"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_36" HPOS="85" VPOS="894" WIDTH="90" HEIGHT="30" BASELINE="85 908 175 908" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="85 908 85 919 174 924 175 908 175 894 85 894 85 908"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+</TextBlock>
+                <TextBlock ID="block_3" HPOS="759" VPOS="188" WIDTH="82" HEIGHT="61" TAGREFS="TYPE_15">
+                    <Shape>
+                        <Polygon POINTS="759.0853271484375 188.7636260986328 841.5519409179688 188.7636260986328 841.5519409179688 249.7905731201172 759.0853271484375 249.7905731201172 759.0853271484375 188.7636260986328"/>
+                    </Shape>
+                    <TextLine ID="line_37" HPOS="756" VPOS="205" WIDTH="84" HEIGHT="30" BASELINE="758 224 840 219" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="758 224 759 235 776 230 839 233 840 219 837 205 756 207 758 224"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+</TextBlock>
+                <TextBlock ID="block_5" HPOS="759" VPOS="401" WIDTH="84" HEIGHT="117" TAGREFS="TYPE_15">
+                    <Shape>
+                        <Polygon POINTS="759.4534912109375 401.0159912109375 843.9263916015625 401.0159912109375 843.9263916015625 518.5724487304688 759.4534912109375 518.5724487304688 759.4534912109375 401.0159912109375"/>
+                    </Shape>
+                    <TextLine ID="line_38" HPOS="759" VPOS="419" WIDTH="81" HEIGHT="27" BASELINE="760 437 767 433 840 431" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="760 437 760 446 790 440 839 444 840 431 837 419 759 421 760 437"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_39" HPOS="760" VPOS="439" WIDTH="80" HEIGHT="25" BASELINE="761 452 840 450" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="761 452 761 463 823 464 824 464 825 464 840 459 840 450 837 439 760 440 761 452"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+</TextBlock>
+                <TextBlock ID="block_6" HPOS="761" VPOS="538" WIDTH="86" HEIGHT="220" TAGREFS="TYPE_15">
+                    <Shape>
+                        <Polygon POINTS="761.6919555664062 538.9238891601562 847.19775390625 538.9238891601562 847.19775390625 758.8639526367188 761.6919555664062 758.8639526367188 761.6919555664062 538.9238891601562"/>
+                    </Shape>
+                    <TextLine ID="line_40" HPOS="763" VPOS="654" WIDTH="80" HEIGHT="25" BASELINE="764 670 843 667" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="764 670 764 679 843 678 843 667 840 654 763 654 764 670"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_41" HPOS="761" VPOS="672" WIDTH="68" HEIGHT="26" BASELINE="762 684 829 687" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="762 684 761 695 827 698 829 687 828 673 762 672 762 684"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+</TextBlock>
+                <TextBlock ID="block_14" HPOS="83" VPOS="938" WIDTH="687" HEIGHT="48" TAGREFS="TYPE_40">
+                    <Shape>
+                        <Polygon POINTS="83.35125732421875 938.0158081054688 770.97265625 938.0158081054688 770.97265625 986.7587890625 83.35125732421875 986.7587890625 83.35125732421875 938.0158081054688"/>
+                    </Shape>
+                    <TextLine ID="line_42" HPOS="105" VPOS="925" WIDTH="662" HEIGHT="52" BASELINE="106 951 767 958" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="106 951 105 962 176 963 178 964 196 970 197 970 198 970 199 970 212 965 213 965 270 965 277 967 294 972 295 972 296 972 322 967 334 966 342 968 360 974 361 974 500 975 501 975 502 975 509 972 511 971 514 972 530 976 531 976 532 976 533 976 544 973 552 970 570 973 589 976 590 976 613 974 653 970 766 977 767 958 766 931 705 937 697 931 696 931 695 931 648 930 647 930 646 930 630 938 604 938 571 931 570 931 541 936 514 928 513 928 493 928 492 928 491 928 478 935 466 929 465 929 464 929 463 929 453 934 446 928 445 928 444 928 420 927 406 927 406 927 405 927 380 934 366 928 366 928 365 928 364 928 363 928 353 934 320 934 310 927 309 927 308 927 307 927 272 934 188 925 180 925 180 925 179 925 177 925 153 932 106 925 106 951"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_43" HPOS="82" VPOS="953" WIDTH="84" HEIGHT="34" BASELINE="83 971 166 973" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="83 971 82 987 166 987 166 973 166 959 153 954 152 954 151 954 150 954 139 958 138 958 136 958 103 953 102 953 83 956 83 971"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+</TextBlock>
+                <TextBlock ID="block_0" HPOS="269" VPOS="1002" WIDTH="311" HEIGHT="44" TAGREFS="TYPE_7">
+                    <Shape>
+                        <Polygon POINTS="269.9617614746094 1002.4991455078125 580.64453125 1002.4991455078125 580.64453125 1046.841064453125 269.9617614746094 1046.841064453125 269.9617614746094 1002.4991455078125"/>
+                    </Shape>
+                    <TextLine ID="line_44" HPOS="277" VPOS="1016" WIDTH="296" HEIGHT="30" BASELINE="277 1030 573 1031" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="277 1030 278 1044 285 1040 309 1044 319 1045 320 1046 393 1046 393 1045 394 1045 403 1042 416 1040 430 1042 444 1045 445 1046 467 1046 467 1045 468 1045 469 1045 469 1044 472 1042 473 1040 478 1042 485 1045 486 1045 486 1045 487 1045 488 1045 492 1041 494 1040 503 1041 518 1045 519 1045 573 1040 573 1031 573 1017 277 1016 277 1030"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+</TextBlock>
+                <TextBlock ID="block_12" HPOS="101" VPOS="1055" WIDTH="649" HEIGHT="89" TAGREFS="TYPE_40">
+                    <Shape>
+                        <Polygon POINTS="101.5108642578125 1055.2813720703125 750.106201171875 1055.2813720703125 750.106201171875 1144.7015380859375 101.5108642578125 1144.7015380859375 101.5108642578125 1055.2813720703125"/>
+                    </Shape>
+                    <TextLine ID="line_45" HPOS="119" VPOS="1046" WIDTH="621" HEIGHT="48" BASELINE="119 1072 740 1079" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="119 1072 119 1087 188 1083 214 1088 222 1089 223 1089 234 1088 266 1084 353 1088 412 1091 413 1091 413 1091 414 1091 417 1088 420 1086 423 1088 427 1092 428 1092 429 1092 430 1092 431 1092 442 1088 449 1086 460 1088 481 1092 482 1092 483 1092 494 1088 500 1086 506 1088 515 1093 516 1093 517 1093 595 1089 671 1094 672 1094 739 1088 740 1079 738 1056 586 1057 554 1053 541 1051 540 1051 532 1053 511 1056 493 1052 487 1050 486 1050 486 1050 485 1050 480 1052 468 1055 353 1055 344 1050 343 1050 342 1050 277 1053 260 1048 260 1048 259 1048 214 1051 195 1047 193 1047 193 1047 192 1047 177 1052 166 1047 165 1047 119 1046 119 1072"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_46" HPOS="135" VPOS="1079" WIDTH="605" HEIGHT="47" BASELINE="136 1099 740 1106" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="136 1099 135 1110 193 1116 194 1116 195 1116 206 1113 209 1112 218 1113 247 1116 248 1116 269 1113 283 1113 290 1114 303 1119 304 1119 305 1119 324 1115 334 1113 337 1116 340 1119 341 1119 342 1119 343 1119 362 1116 379 1114 394 1117 408 1119 409 1119 410 1119 417 1118 430 1114 441 1119 454 1123 455 1123 587 1124 588 1124 589 1124 594 1122 606 1119 613 1123 615 1125 616 1125 617 1125 618 1125 619 1125 625 1123 637 1119 668 1124 680 1126 680 1126 681 1126 682 1126 683 1125 690 1119 700 1125 700 1125 739 1126 740 1106 740 1087 711 1090 701 1086 695 1085 694 1085 693 1085 693 1085 686 1086 674 1090 669 1086 666 1085 666 1085 665 1085 634 1085 633 1085 633 1085 626 1086 614 1089 602 1086 588 1083 587 1083 548 1086 516 1088 511 1086 506 1082 506 1082 505 1082 504 1082 476 1086 460 1087 457 1086 453 1082 453 1082 452 1082 451 1082 450 1082 440 1086 436 1086 433 1085 424 1081 423 1081 422 1081 421 1081 413 1085 408 1086 310 1086 305 1085 287 1080 286 1080 286 1080 285 1080 275 1084 274 1085 273 1084 264 1080 263 1080 227 1080 226 1080 226 1080 214 1084 213 1085 213 1084 207 1080 207 1079 206 1079 206 1079 205 1079 136 1083 136 1099"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_47" HPOS="107" VPOS="1103" WIDTH="339" HEIGHT="44" BASELINE="108 1125 446 1133" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="108 1125 107 1139 110 1141 110 1142 111 1142 112 1142 113 1142 156 1139 196 1144 197 1144 217 1139 220 1139 220 1139 226 1145 227 1145 228 1145 229 1145 251 1141 256 1140 263 1141 296 1146 297 1147 446 1147 446 1133 446 1117 392 1109 391 1109 390 1109 371 1114 353 1108 352 1108 351 1108 350 1108 349 1108 344 1113 340 1110 340 1109 340 1109 339 1109 338 1109 304 1113 292 1106 291 1106 290 1106 190 1110 182 1105 181 1105 180 1105 144 1103 143 1103 108 1108 108 1125"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+</TextBlock>
+                <TextBlock ID="block_13" HPOS="87" VPOS="1169" WIDTH="680" HEIGHT="120" TAGREFS="TYPE_40">
+                    <Shape>
+                        <Polygon POINTS="87.38544464111328 1169.2874755859375 767.0051879882812 1169.2874755859375 767.0051879882812 1289.205810546875 87.38544464111328 1289.205810546875 87.38544464111328 1169.2874755859375"/>
+                    </Shape>
+                    <TextLine ID="line_48" HPOS="180" VPOS="1161" WIDTH="664" HEIGHT="49" BASELINE="180 1186 756 1193 774 1204 844 1206" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="842 1175 768 1176 764 1173 757 1167 756 1167 755 1167 728 1166 727 1166 726 1166 713 1172 707 1175 675 1175 667 1171 657 1166 656 1166 655 1166 600 1170 550 1173 533 1168 525 1166 524 1166 523 1166 512 1168 492 1173 479 1167 468 1163 467 1163 466 1163 448 1166 434 1169 405 1166 367 1161 366 1161 326 1164 270 1168 219 1162 218 1162 217 1162 216 1162 200 1168 180 1161 180 1186 180 1199 358 1197 373 1202 378 1204 379 1204 380 1204 380 1204 385 1203 393 1199 440 1204 447 1204 448 1204 451 1204 480 1199 540 1206 546 1206 547 1206 553 1206 594 1202 601 1206 602 1207 603 1207 604 1207 605 1207 606 1207 609 1206 623 1201 631 1206 632 1206 633 1206 633 1206 634 1206 716 1202 762 1209 765 1209 842 1210 844 1206 842 1175"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_49" HPOS="178" VPOS="1191" WIDTH="583" HEIGHT="36" BASELINE="179 1206 761 1216" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="179 1206 178 1214 760 1227 761 1216 760 1202 179 1191 179 1206"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_50" HPOS="181" VPOS="1212" WIDTH="655" HEIGHT="41" BASELINE="182 1230 748 1237 775 1245 836 1245" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="833 1226 824 1226 815 1226 806 1226 798 1226 789 1226 780 1226 773 1226 772 1226 769 1226 766 1224 751 1218 750 1218 749 1218 726 1223 722 1224 720 1223 709 1219 708 1219 707 1219 630 1221 590 1222 582 1220 565 1215 564 1215 563 1215 535 1219 521 1221 518 1219 513 1215 513 1215 512 1215 511 1215 510 1215 499 1219 497 1219 483 1218 406 1213 405 1213 404 1213 398 1216 391 1219 373 1216 356 1212 182 1212 182 1230 181 1238 267 1239 272 1240 292 1246 293 1246 293 1246 323 1241 332 1240 345 1242 376 1246 377 1246 418 1244 446 1242 455 1245 464 1247 465 1247 466 1247 466 1247 467 1247 470 1245 474 1242 501 1245 508 1246 509 1246 513 1246 542 1242 600 1243 606 1248 609 1251 610 1251 611 1251 612 1251 613 1251 613 1251 616 1248 621 1245 668 1250 682 1251 683 1251 687 1250 707 1245 713 1251 714 1251 715 1251 716 1251 717 1251 724 1247 834 1253 836 1245 835 1226 833 1226"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_51" HPOS="166" VPOS="1231" WIDTH="599" HEIGHT="39" BASELINE="167 1252 259 1251 765 1259" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="761 1240 223 1237 167 1231 167 1252 166 1262 763 1270 765 1259 765 1242 761 1240"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    <TextLine ID="line_52" HPOS="86" VPOS="1252" WIDTH="682" HEIGHT="56" BASELINE="87 1268 475 1278 768 1279" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="87 1268 86 1283 96 1287 97 1287 98 1287 127 1284 130 1284 146 1294 147 1294 148 1294 149 1294 150 1294 173 1285 177 1285 205 1285 208 1287 232 1299 233 1299 233 1299 234 1299 253 1293 293 1300 293 1300 294 1300 313 1292 321 1298 322 1298 323 1298 324 1298 357 1294 386 1300 387 1300 412 1295 421 1292 425 1295 428 1298 428 1298 429 1298 430 1298 460 1303 460 1303 461 1303 474 1297 487 1292 512 1292 524 1299 525 1299 526 1299 526 1299 527 1299 528 1299 544 1292 573 1301 581 1304 582 1304 583 1304 584 1304 588 1302 607 1292 668 1292 695 1305 699 1307 700 1307 766 1308 768 1279 768 1267 87 1252 87 1268"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+</TextBlock>
+                <TextBlock ID="block_8" HPOS="90" VPOS="1170" WIDTH="86" HEIGHT="90" TAGREFS="TYPE_25">
+                    <Shape>
+                        <Polygon POINTS="90.59355926513672 1170.1124267578125 176.68698120117188 1170.1124267578125 176.68698120117188 1260.6619873046875 90.59355926513672 1260.6619873046875 90.59355926513672 1170.1124267578125"/>
+                    </Shape>
+                    <TextLine ID="line_53" HPOS="123" VPOS="1207" WIDTH="29" HEIGHT="55" BASELINE="124 1252 152 1252" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="123 1261 150 1262 152 1252 151 1217 143 1218 126 1207 124 1252 123 1261"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+</TextBlock>
+                <TextBlock ID="block_10" HPOS="629" VPOS="1287" WIDTH="43" HEIGHT="24" TAGREFS="TYPE_29">
+                    <Shape>
+                        <Polygon POINTS="629.118896484375 1287.8626708984375 672.8631591796875 1287.8626708984375 672.8631591796875 1311.54443359375 629.118896484375 1311.54443359375 629.118896484375 1287.8626708984375"/>
+                    </Shape>
+                    <TextLine ID="line_54" HPOS="629" VPOS="1285" WIDTH="57" HEIGHT="29" BASELINE="629 1301 686 1301" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="629 1301 629 1314 686 1311 686 1301 686 1288 629 1285 629 1301"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+</TextBlock>
+                <TextBlock ID="block_2" HPOS="768" VPOS="1191" WIDTH="80" HEIGHT="66" TAGREFS="TYPE_15">
+                    <Shape>
+                        <Polygon POINTS="768.2987060546875 1191.4466552734375 848.5226440429688 1191.4466552734375 848.5226440429688 1257.8328857421875 768.2987060546875 1257.8328857421875 768.2987060546875 1191.4466552734375"/>
+                    </Shape>
+                    <TextLine ID="line_55" HPOS="770" VPOS="1210" WIDTH="70" HEIGHT="28" BASELINE="770 1226 840 1226" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="770 1226 770 1234 840 1238 840 1226 840 1210 770 1210 770 1226"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+</TextBlock>
+                <TextBlock ID="textblock_13">
+                    
+                    <TextLine ID="line_56" HPOS="719" VPOS="1283" WIDTH="52" HEIGHT="40" BASELINE="720 1302 771 1300" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="720 1302 720 1318 733 1323 733 1323 734 1323 771 1318 771 1300 768 1283 719 1287 720 1302"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                </TextBlock>
+            </PrintSpace>
+        </Page>
+    </Layout>
+</alto>
