@@ -69,11 +69,11 @@
         </TextBlock>
         <TextBlock HPOS="66"
                    VPOS="218"
-                   WIDTH="625"
+                   WIDTH="627"
                    HEIGHT="198"
                    ID="block_3"
                    TAGREFS="BT3108">
-          <Shape><Polygon POINTS="691 218 691 416 81 416 66 218"/></Shape>
+          <Shape><Polygon POINTS="691 218 693 409 81 416 66 218"/></Shape>
           <TextLine ID="line_1"
                     TAGREFS="LT8"
                     BASELINE="77 251 689 240" 
@@ -459,12 +459,12 @@
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="523"
-                   VPOS="1207"
+                   VPOS="1212"
                    WIDTH="41"
-                   HEIGHT="35"
+                   HEIGHT="30"
                    ID="block_2"
                    TAGREFS="BT17">
-          <Shape><Polygon POINTS="564 1207 564 1242 523 1242 523 1207"/></Shape>
+          <Shape><Polygon POINTS="564 1212 564 1242 523 1242 523 1212"/></Shape>
           <TextLine ID="line_27"
                     TAGREFS="LT8"
                     BASELINE="529 1231 554 1230" 
@@ -503,14 +503,6 @@
                     HEIGHT="53"
                     WC="0.9997852295637131"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="93"
-                   VPOS="813"
-                   WIDTH="613"
-                   HEIGHT="395"
-                   ID="eSc_textblock_c4940fcf"
-                   TAGREFS="BT3109">
-          <Shape><Polygon POINTS="706 813 706 1208 99 1208 93 817"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
