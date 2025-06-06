@@ -892,7 +892,7 @@
                    WIDTH="48"
                    HEIGHT="23"
                    ID="eSc_textblock_8ade46ca"
-                   >
+                   TAGREFS="BT3122">
           <Shape><Polygon POINTS="192 298 192 321 240 321 240 298"/></Shape>
           <TextLine ID="line_11"
                     TAGREFS="LT8"
