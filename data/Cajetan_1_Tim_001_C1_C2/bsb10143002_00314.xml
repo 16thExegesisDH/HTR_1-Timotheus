@@ -790,16 +790,16 @@
           <TextLine ID="line_49"
                     TAGREFS="LT8"
                     BASELINE="477 2537 2318 2543" 
-                    HPOS="475.0"
-                    VPOS="2497.0"
-                    WIDTH="1843.0"
-                    HEIGHT="69.0">
-            <Shape><Polygon POINTS="477 2537 475 2559 2314 2566 2318 2543 2314 2497 477 2497 477 2537"/></Shape>
+                    HPOS="475"
+                    VPOS="2497"
+                    WIDTH="1843"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="475 2559 2314 2566 2318 2543 2314 2497 477 2497 477 2537"/></Shape>
             <String CONTENT="in nudis naturalibus deſipere poſſint peccãdo, nõ ſunt ſuapte natura ſapientes: ſed quęcun ſunt ſapiẽ¬"
-                    HPOS="475.0"
-                    VPOS="2497.0"
-                    WIDTH="1843.0"
-                    HEIGHT="69.0"
+                    HPOS="475"
+                    VPOS="2497"
+                    WIDTH="1843"
+                    HEIGHT="69"
                     ></String>
           </TextLine>
           <TextLine ID="line_50"
@@ -925,41 +925,41 @@
           <TextLine ID="line_58"
                     TAGREFS="LT8"
                     BASELINE="475 2985 1534 2979 2316 2985" 
-                    HPOS="473.0"
-                    VPOS="2938.0"
-                    WIDTH="1843.0"
-                    HEIGHT="70.0">
-            <Shape><Polygon POINTS="475 2985 475 3008 2314 3006 2316 2985 2314 2946 473 2938 475 2985"/></Shape>
+                    HPOS="473"
+                    VPOS="2938"
+                    WIDTH="1843"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="475 3008 2314 3006 2316 2985 2314 2946 473 2938 475 2985"/></Shape>
             <String CONTENT="rias vt milites in illis bonam militiam.] In actibus apoſtoloꝶ ſcribitur ꝙ de timotheo multa bona"
-                    HPOS="473.0"
-                    VPOS="2938.0"
-                    WIDTH="1843.0"
-                    HEIGHT="70.0"
-                    ></String>
-          </TextLine>
-          <TextLine ID="line_59"
-                    TAGREFS="LT8"
-                    BASELINE="473 3031 2310 3037" 
-                    HPOS="471.0"
-                    VPOS="2990.0"
-                    WIDTH="1839.0"
-                    HEIGHT="130.0">
-            <Shape><Polygon POINTS="473 3031 471 3093 500 3105 502 3105 504 3105 506 3105 508 3105 529 3091 548 3083 593 3083 595 3070 616 3070 637 3070 657 3070 678 3070 699 3070 719 3070 740 3070 740 3083 781 3083 835 3095 889 3107 891 3107 1241 3099 1363 3097 1379 3101 1437 3118 1439 3118 1441 3118 1853 3109 1882 3120 1884 3120 1886 3120 1888 3120 1921 3105 1956 3093 1996 3103 1998 3103 2000 3103 2002 3103 2043 3091 2091 3107 2107 3114 2110 3114 2112 3114 2114 3114 2130 3109 2192 3089 2306 3109 2310 3037 2308 2996 473 2990 473 3031"/></Shape>
-            <String CONTENT="teddebantur teſtimonia | quum paulus aſſumpſit eum ſecum. plus autem explicatur huic dicendo "
-                    HPOS="471.0"
-                    VPOS="2990.0"
-                    WIDTH="1839.0"
-                    HEIGHT="130.0"
+                    HPOS="473"
+                    VPOS="2938"
+                    WIDTH="1843"
+                    HEIGHT="70"
                     ></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="472"
+        <TextBlock HPOS="459"
                    VPOS="2800"
-                   WIDTH="1850"
-                   HEIGHT="258"
+                   WIDTH="1863"
+                   HEIGHT="257"
                    ID="eSc_textblock_bd35bf16"
                    TAGREFS="BT3138">
-          <Shape><Polygon POINTS="476 2804 472 3058 2322 3054 2322 2800"/></Shape>
+          <Shape><Polygon POINTS="465 2804 459 3057 2322 3054 2322 2800"/></Shape>
+          <TextLine ID="eSc_line_d70892e6"
+                    TAGREFS="LT8"
+                    BASELINE="485 3042 2297 3038" 
+                    HPOS="480"
+                    VPOS="2986"
+                    WIDTH="1815"
+                    HEIGHT="180">
+            <Shape><Polygon POINTS="483 3039 483 3114 558 3114 642 3163 654 3163 750 3135 781 3148 794 3148 837 3114 890 3129 902 3129 921 3114 1194 3114 1218 3132 1218 3135 1318 3135 1389 3166 1764 3166 1764 3163 1771 3163 1854 3114 1985 3114 2071 3163 2084 3163 2149 3135 2199 3160 2292 3160 2295 3036 2289 2990 480 2986 483 3039"/></Shape>
+            <String CONTENT="teddebantur teſtimonia | quum paulus aſſumpſit eum ſecum. plus autem explicatur hic | dicendo "
+                    HPOS="480"
+                    VPOS="2986"
+                    WIDTH="1815"
+                    HEIGHT="180"
+                    ></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

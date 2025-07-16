@@ -429,17 +429,17 @@
           <Shape><Polygon POINTS="2328 1325 2324 3072 470 3072 466 1333"/></Shape>
           <TextLine ID="eSc_line_9d25606e"
                     TAGREFS="LT9"
-                    BASELINE="497 1413 566 1415" 
-                    HPOS="493"
-                    VPOS="1350"
-                    WIDTH="71"
-                    HEIGHT="90">
-            <Shape><Polygon POINTS="561 1440 564 1415 564 1366 499 1350 496 1412 493 1440"/></Shape>
+                    BASELINE="498 1414 566 1415" 
+                    HPOS="496"
+                    VPOS="1332"
+                    WIDTH="68"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="558 1332 527 1332 496 1332 496 1412 496 1443 564 1443 564 1412 564 1332 558 1332"/></Shape>
             <String CONTENT="V"
-                    HPOS="493"
-                    VPOS="1350"
-                    WIDTH="71"
-                    HEIGHT="90"
+                    HPOS="496"
+                    VPOS="1332"
+                    WIDTH="68"
+                    HEIGHT="111"
                     WC="0.9997814297676086"></String>
           </TextLine>
           <TextLine ID="line_26"

@@ -361,12 +361,13 @@
                    TAGREFS="BT3137">
           <Shape><Polygon POINTS="1266 1042 1266 1084 652 1084 652 1042"/></Shape>
           <TextLine ID="eSc_line_52ee7a7d"
+                    TAGREFS="LT8"
                     BASELINE="674 1075 896 1075" 
                     HPOS="671"
                     VPOS="1042"
                     WIDTH="223"
                     HEIGHT="59">
-            <Shape><Polygon POINTS="888 1042 857 1042 826 1042 795 1042 764 1042 733 1042 702 1042 671 1042 671 1073 671 1101 894 1101 894 1073 894 1042 888 1042"/></Shape>
+            <Shape><Polygon POINTS="857 1042 826 1042 795 1042 764 1042 733 1042 702 1042 671 1042 671 1073 671 1101 894 1101 894 1073 894 1042 888 1042"/></Shape>
             <String CONTENT="CAPVT"
                     HPOS="671"
                     VPOS="1042"
@@ -375,12 +376,13 @@
                     WC="0.999911618232727"></String>
           </TextLine>
           <TextLine ID="eSc_line_fbf1b07b"
+                    TAGREFS="LT8"
                     BASELINE="1174 1075 1240 1078" 
                     HPOS="1168"
                     VPOS="1042"
                     WIDTH="71"
                     HEIGHT="56">
-            <Shape><Polygon POINTS="1233 1042 1202 1042 1171 1042 1171 1073 1168 1098 1236 1098 1239 1076 1236 1042 1233 1042"/></Shape>
+            <Shape><Polygon POINTS="1202 1042 1171 1042 1171 1073 1168 1098 1236 1098 1239 1076 1236 1042 1233 1042"/></Shape>
             <String CONTENT=".II."
                     HPOS="1168"
                     VPOS="1042"
@@ -397,12 +399,13 @@
                    TAGREFS="BT10">
           <Shape><Polygon POINTS="115 1097 116 1290 311 1291 311 1095"/></Shape>
           <TextLine ID="eSc_line_f15e2acc"
+                    TAGREFS="LT8"
                     BASELINE="129 1271 280 1269" 
                     HPOS="124"
                     VPOS="1225"
                     WIDTH="155"
                     HEIGHT="81">
-            <Shape><Polygon POINTS="127 1269 127 1306 276 1306 279 1266 270 1225 124 1225 127 1269"/></Shape>
+            <Shape><Polygon POINTS="127 1306 276 1306 279 1266 270 1225 124 1225 127 1269"/></Shape>
             <String CONTENT="O"
                     HPOS="124"
                     VPOS="1225"
@@ -481,16 +484,16 @@
           <TextLine ID="line_27"
                     TAGREFS="LT8"
                     BASELINE="101 1330 869 1315 1957 1311" 
-                    HPOS="99.0"
-                    VPOS="1274.0"
-                    WIDTH="1858.0"
-                    HEIGHT="72.0">
-            <Shape><Polygon POINTS="101 1330 101 1346 1955 1336 1957 1311 1951 1274 99 1286 101 1330"/></Shape>
+                    HPOS="99"
+                    VPOS="1274"
+                    WIDTH="1858"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="101 1346 1955 1336 1957 1311 1951 1274 99 1286 101 1330"/></Shape>
             <String CONTENT="ctionis actus erga omnes eſt oratio. &amp; ideo tractans illam parriculã dilectio | hortatur ante omnia orari"
-                    HPOS="99.0"
-                    VPOS="1274.0"
-                    WIDTH="1858.0"
-                    HEIGHT="72.0"
+                    HPOS="99"
+                    VPOS="1274"
+                    WIDTH="1858"
+                    HEIGHT="72"
                     ></String>
           </TextLine>
           <TextLine ID="line_28"

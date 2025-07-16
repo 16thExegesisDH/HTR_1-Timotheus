@@ -96,7 +96,7 @@
                    HEIGHT="1098"
                    ID="block_0"
                    TAGREFS="BT3140">
-          <Shape><Polygon POINTS="2024 217 2020 1307 131 1315 131 217"/></Shape>
+          <Shape><Polygon POINTS="2024 217 2020 1307 1082 1308 131 1315 131 217"/></Shape>
           <TextLine ID="line_3"
                     TAGREFS="LT8"
                     BASELINE="141 255 2032 259" 
@@ -428,12 +428,35 @@
                     ></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="710"
+                   VPOS="1320"
+                   WIDTH="680"
+                   HEIGHT="45"
+                   ID="eSc_textblock_4a48cbcc"
+                   TAGREFS="BT3137">
+          <Shape><Polygon POINTS="1390 1320 1390 1358 1013 1365 710 1358 710 1320"/></Shape>
+          <TextLine ID="line_26"
+                    TAGREFS="LT8"
+                    BASELINE="736 1350 1368 1346" 
+                    HPOS="717"
+                    VPOS="1298"
+                    WIDTH="651"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="719 1363 1364 1365 1368 1346 1362 1298 717 1309 719 1350"/></Shape>
+            <String CONTENT="CAPVT .III."
+                    HPOS="717"
+                    VPOS="1298"
+                    WIDTH="651"
+                    HEIGHT="67"
+                    WC="0.9477314569733359"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="156"
                    VPOS="1367"
                    WIDTH="207"
                    HEIGHT="207"
                    ID="eSc_textblock_31678d14"
-                   TAGREFS="BT3137">
+                   TAGREFS="BT10">
           <Shape><Polygon POINTS="156 1367 156 1574 363 1574 363 1367"/></Shape>
           <TextLine ID="eSc_line_c4d86d48"
                     TAGREFS="LT9"
@@ -457,22 +480,7 @@
                    HEIGHT="1773"
                    ID="block_3"
                    TAGREFS="BT3138">
-          <Shape><Polygon POINTS="2017 1361 2021 3134 132 3134 136 1365"/></Shape>
-          <TextLine ID="line_26"
-                    TAGREFS="LT8"
-                    BASELINE="736 1350 1368 1346" 
-                    HPOS="717"
-                    VPOS="1298"
-                    WIDTH="651"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="719 1363 1364 1365 1368 1346 1362 1298 717 1309 719 1350"/></Shape>
-            <String CONTENT="CAPVT .III."
-                    HPOS="717"
-                    VPOS="1298"
-                    WIDTH="651"
-                    HEIGHT="67"
-                    WC="0.9477314569733359"></String>
-          </TextLine>
+          <Shape><Polygon POINTS="2017 1361 2021 3134 132 3134 136 1365 985 1373"/></Shape>
           <TextLine ID="line_27"
                     TAGREFS="LT8"
                     BASELINE="374 1411 2005 1394" 
@@ -998,14 +1006,6 @@
                     HEIGHT="124"
                     ></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="710"
-                   VPOS="1320"
-                   WIDTH="680"
-                   HEIGHT="38"
-                   ID="eSc_textblock_4a48cbcc"
-                   TAGREFS="BT3137">
-          <Shape><Polygon POINTS="1390 1320 1390 1358 710 1358 710 1320"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
