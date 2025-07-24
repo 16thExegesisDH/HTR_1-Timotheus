@@ -21,10 +21,10 @@
                   VPOS="0"
                   WIDTH="2410"
                   HEIGHT="3722">
-        <TextBlock HPOS="809"
-                   VPOS="113"
-                   WIDTH="306"
-                   HEIGHT="70"
+        <TextBlock HPOS="809.0"
+                   VPOS="113.0"
+                   WIDTH="306.0"
+                   HEIGHT="70.0"
                    ID="block_6"
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="1115 113 1115 183 809 183 809 113"/></Shape>
@@ -44,10 +44,10 @@
                     WC="0.999952495098114"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="1568"
-                   VPOS="114"
-                   WIDTH="525"
-                   HEIGHT="67"
+        <TextBlock HPOS="1568.0"
+                   VPOS="114.0"
+                   WIDTH="525.0"
+                   HEIGHT="67.0"
                    ID="block_5"
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="2093 114 2093 181 1568 181 1568 114"/></Shape>
@@ -67,10 +67,10 @@
                     WC="0.9999012798070908"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="472"
-                   VPOS="184"
-                   WIDTH="1861"
-                   HEIGHT="706"
+        <TextBlock HPOS="472.0"
+                   VPOS="184.0"
+                   WIDTH="1861.0"
+                   HEIGHT="706.0"
                    ID="block_0"
                    TAGREFS="BT3140">
           <Shape><Polygon POINTS="2333 184 2333 890 472 890 472 184"/></Shape>
@@ -82,7 +82,7 @@
                     WIDTH="1843.0"
                     HEIGHT="89.0">
             <Shape><Polygon POINTS="477 229 477 252 2316 243 2318 221 2314 173 2143 163 2141 163 2139 163 2114 173 2105 175 2066 173 1990 167 1987 167 1683 173 1493 177 1464 173 1398 165 1396 165 1274 175 1206 179 1079 175 920 169 918 169 883 175 852 181 829 175 808 169 806 169 804 169 475 175 477 229"/></Shape>
-            <String CONTENT="chriſti, fed &amp; violentiam intulerat: vt paret in actibus apoſtolorũ. SED. Deficit et miſericordiam dei cõ¬"
+            <String CONTENT="chriſti, fed &amp; violentiam intulerat: vt patet in actibus apoſtolorũ. SED. Deficit et miſericordiam dei cõ¬"
                     HPOS="475.0"
                     VPOS="163.0"
                     WIDTH="1843.0"
@@ -232,7 +232,7 @@
                     WIDTH="1839.0"
                     HEIGHT="68.0">
             <Shape><Polygon POINTS="484 721 484 748 2318 742 2321 715 2314 680 482 684 484 721"/></Shape>
-            <String CONTENT="&amp; dilectione quę eſt in chro ieſu. ] Intellige ſuꝑabundauit | referri non ſolum ad gr̃am, ſed etiam ad do¬"
+            <String CONTENT="&amp; dilectione quę eſt in chro ieſu. ] Intellige ſuꝑabundauit | referri non ſolum ad gr̃am, ſed etiam ad doᛘ"
                     HPOS="482.0"
                     VPOS="680.0"
                     WIDTH="1839.0"
@@ -285,10 +285,10 @@
                     ></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="468"
-                   VPOS="886"
-                   WIDTH="1874"
-                   HEIGHT="1913"
+        <TextBlock HPOS="468.0"
+                   VPOS="886.0"
+                   WIDTH="1874.0"
+                   HEIGHT="1913.0"
                    ID="block_3"
                    TAGREFS="BT3138">
           <Shape><Polygon POINTS="2342 886 2325 2799 468 2799 477 899"/></Shape>
@@ -345,7 +345,7 @@
                     WIDTH="1846.0"
                     HEIGHT="74.0">
             <Shape><Polygon POINTS="482 1066 482 1091 2323 1083 2325 1060 2318 1017 479 1029 482 1066"/></Shape>
-            <String CONTENT="ne dignum: vt tam parti cognoſcitinę cõgruere ſignificetur ex veracitate |  parti affectiuę ex accęptabi¬"
+            <String CONTENT="ne dignum: vt tam parti cognoſcitinę cõgruere ſignificetur ex veracitate |  parti affectiuę ex accęptabiᛘ"
                     HPOS="479.0"
                     VPOS="1017.0"
                     WIDTH="1846.0"
@@ -535,16 +535,16 @@
           <TextLine ID="line_32"
                     TAGREFS="LT8"
                     BASELINE="484 1715 2318 1705" 
-                    HPOS="480"
-                    VPOS="1659"
-                    WIDTH="1836"
-                    HEIGHT="71">
+                    HPOS="480.0"
+                    VPOS="1659.0"
+                    WIDTH="1836.0"
+                    HEIGHT="71.0">
             <Shape><Polygon POINTS="483 1712 483 1730 2313 1730 2316 1702 2307 1659 480 1662 483 1712"/></Shape>
             <String CONTENT="apoſtoloꝶ cõuerſus eſt vt alii. Et ꝓpterea merito inter ſaluatos peccatores primum (hoc eſt p̃cipuum)"
-                    HPOS="480"
-                    VPOS="1659"
-                    WIDTH="1836"
-                    HEIGHT="71"
+                    HPOS="480.0"
+                    VPOS="1659.0"
+                    WIDTH="1836.0"
+                    HEIGHT="71.0"
                     ></String>
           </TextLine>
           <TextLine ID="line_33"
@@ -735,7 +735,7 @@
                     WIDTH="1844.0"
                     HEIGHT="66.0">
             <Shape><Polygon POINTS="1408 2299 1388 2299 1367 2299 1346 2299 1326 2299 1305 2299 1284 2299 1263 2299 1243 2299 1222 2299 1201 2299 1181 2299 1160 2299 1139 2299 1119 2299 1098 2299 1038 2307 523 2299 521 2299 519 2299 477 2309 479 2346 479 2363 2316 2365 2321 2340 2316 2305 1417 2299 1408 2299"/></Shape>
-            <String CONTENT="aũt nõ vnius ſęculi ſed ſęculoꝶ. IMMORTALI. ] ad differẽtiã regum lõgęuę vitę : puta noe qui &amp; ſęcu¬"
+            <String CONTENT="aũt nõ vnius ſęculi ſed ſęculoꝶ. IMMORTALI. ] ad differẽtiã regum lõgęuę vitę : puta noe qui &amp; ſęcuᛘ"
                     HPOS="477.0"
                     VPOS="2299.0"
                     WIDTH="1844.0"
@@ -750,7 +750,7 @@
                     WIDTH="1846.0"
                     HEIGHT="68.0">
             <Shape><Polygon POINTS="477 2396 477 2419 2321 2419 2323 2392 2318 2351 477 2351 477 2396"/></Shape>
-            <String CONTENT="lo añ diluuium p̃fuit &amp; ſęculo poſt diluuium, qui tñ non fuit ĩmortalis. INVISIBILI.] Hoc ad differẽ¬"
+            <String CONTENT="lo añ diluuium p̃fuit &amp; ſęculo poſt diluuium, qui tñ non fuit ĩmortalis. INVISIBILI.] Hoc ad differẽᛘ"
                     HPOS="477.0"
                     VPOS="2351.0"
                     WIDTH="1846.0"
@@ -790,16 +790,16 @@
           <TextLine ID="line_49"
                     TAGREFS="LT8"
                     BASELINE="477 2537 2318 2543" 
-                    HPOS="475"
-                    VPOS="2497"
-                    WIDTH="1843"
-                    HEIGHT="69">
+                    HPOS="475.0"
+                    VPOS="2497.0"
+                    WIDTH="1843.0"
+                    HEIGHT="69.0">
             <Shape><Polygon POINTS="475 2559 2314 2566 2318 2543 2314 2497 477 2497 477 2537"/></Shape>
             <String CONTENT="in nudis naturalibus deſipere poſſint peccãdo, nõ ſunt ſuapte natura ſapientes: ſed quęcun ſunt ſapiẽ¬"
-                    HPOS="475"
-                    VPOS="2497"
-                    WIDTH="1843"
-                    HEIGHT="69"
+                    HPOS="475.0"
+                    VPOS="2497.0"
+                    WIDTH="1843.0"
+                    HEIGHT="69.0"
                     ></String>
           </TextLine>
           <TextLine ID="line_50"
@@ -900,7 +900,7 @@
                     WIDTH="1837.0"
                     HEIGHT="66.0">
             <Shape><Polygon POINTS="477 2882 475 2905 2308 2911 2312 2886 2310 2849 477 2845 477 2882"/></Shape>
-            <String CONTENT="quo cõmendo tibi hoc p̃cęptum de fine oĩum præcęptoꝶ explicato | de libertate iuſtoꝶ a lege de dile¬"
+            <String CONTENT="quo cõmendo tibi hoc p̃cęptum de fine oĩum præcęptoꝶ explicato | de libertate iuſtoꝶ a lege de dileᛘ"
                     HPOS="475.0"
                     VPOS="2845.0"
                     WIDTH="1837.0"
@@ -925,39 +925,39 @@
           <TextLine ID="line_58"
                     TAGREFS="LT8"
                     BASELINE="475 2985 1534 2979 2316 2985" 
-                    HPOS="473"
-                    VPOS="2938"
-                    WIDTH="1843"
-                    HEIGHT="70">
+                    HPOS="473.0"
+                    VPOS="2938.0"
+                    WIDTH="1843.0"
+                    HEIGHT="70.0">
             <Shape><Polygon POINTS="475 3008 2314 3006 2316 2985 2314 2946 473 2938 475 2985"/></Shape>
             <String CONTENT="rias vt milites in illis bonam militiam.] In actibus apoſtoloꝶ ſcribitur ꝙ de timotheo multa bona"
-                    HPOS="473"
-                    VPOS="2938"
-                    WIDTH="1843"
-                    HEIGHT="70"
+                    HPOS="473.0"
+                    VPOS="2938.0"
+                    WIDTH="1843.0"
+                    HEIGHT="70.0"
                     ></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="459"
-                   VPOS="2800"
-                   WIDTH="1863"
-                   HEIGHT="257"
+        <TextBlock HPOS="459.0"
+                   VPOS="2800.0"
+                   WIDTH="1863.0"
+                   HEIGHT="257.0"
                    ID="eSc_textblock_bd35bf16"
                    TAGREFS="BT3138">
           <Shape><Polygon POINTS="465 2804 459 3057 2322 3054 2322 2800"/></Shape>
           <TextLine ID="eSc_line_d70892e6"
                     TAGREFS="LT8"
                     BASELINE="485 3042 2297 3038" 
-                    HPOS="480"
-                    VPOS="2986"
-                    WIDTH="1815"
-                    HEIGHT="180">
+                    HPOS="480.0"
+                    VPOS="2986.0"
+                    WIDTH="1815.0"
+                    HEIGHT="180.0">
             <Shape><Polygon POINTS="483 3039 483 3114 558 3114 642 3163 654 3163 750 3135 781 3148 794 3148 837 3114 890 3129 902 3129 921 3114 1194 3114 1218 3132 1218 3135 1318 3135 1389 3166 1764 3166 1764 3163 1771 3163 1854 3114 1985 3114 2071 3163 2084 3163 2149 3135 2199 3160 2292 3160 2295 3036 2289 2990 480 2986 483 3039"/></Shape>
             <String CONTENT="teddebantur teſtimonia | quum paulus aſſumpſit eum ſecum. plus autem explicatur hic | dicendo "
-                    HPOS="480"
-                    VPOS="2986"
-                    WIDTH="1815"
-                    HEIGHT="180"
+                    HPOS="480.0"
+                    VPOS="2986.0"
+                    WIDTH="1815.0"
+                    HEIGHT="180.0"
                     ></String>
           </TextLine>
         </TextBlock>
