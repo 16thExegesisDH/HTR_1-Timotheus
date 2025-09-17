@@ -72,7 +72,7 @@
                    WIDTH="1096"
                    HEIGHT="895"
                    ID="block_2"
-                   TAGREFS="BT12">
+                   TAGREFS="BT3211">
           <Shape><Polygon POINTS="1704 208 1700 1096 608 1103 619 208"/></Shape>
           <TextLine ID="eSc_line_221b6a9b"
                     TAGREFS="LT8"
@@ -305,7 +305,7 @@
                    WIDTH="1088"
                    HEIGHT="243"
                    ID="eSc_textblock_c087f78d"
-                   >
+                   TAGREFS="BT3213">
           <Shape><Polygon POINTS="1694 1101 1705 1326 617 1344 617 1112"/></Shape>
           <TextLine ID="eSc_line_f69ff2c1"
                     TAGREFS="LT8"
@@ -373,7 +373,7 @@
                    WIDTH="1100"
                    HEIGHT="827"
                    ID="eSc_textblock_9e6be6e2"
-                   >
+                   TAGREFS="BT3213">
           <Shape><Polygon POINTS="1713 1337 1709 2164 613 2164 613 1355"/></Shape>
           <TextLine ID="eSc_line_678598c9"
                     TAGREFS="LT8"
