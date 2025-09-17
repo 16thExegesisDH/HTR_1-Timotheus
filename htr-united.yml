@@ -212,11 +212,11 @@ title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/16thExegesisDH/HTR_1-Timotheus
 volume:
-- count: 677785
+- count: 677787
   metric: characters
 - count: 430
   metric: files
-- count: 16916
+- count: 16918
   metric: lines
 - count: 2915
   metric: regions
