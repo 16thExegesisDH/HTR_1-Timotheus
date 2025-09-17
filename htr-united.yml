@@ -29,143 +29,145 @@ characters:
   - h
   - g
   - f
-  - ̃
   - ¬
+  - ̃
   - '&'
   - æ
   - v
   - I
   - x
-  - ':'
   - ̀
   - E
+  - ':'
   - D
   - A
-  - C
   - P
+  - C
   - S
   - T
   - ́
   - N
-  - α
   - V
   - M
-  - ο
+  - α
   - ι
+  - ο
   - O
   - H
-  - ε
-  - 
   - R
+  - ε
   - τ
-  - ν
-  - j
   - '1'
+  - 
   - Q
+  - j
+  - ν
   - σ
   - υ
+  - '2'
   - ̓
-  - ̨
   - ρ
   - L
-  - μ
+  - ̨
   - ς
-  - '2'
+  - μ
   - y
   - ᛘ
   - λ
-  - η
   - œ
+  - η
+  - '3'
   - κ
+  - '4'
   - π
   - ͂
   - '!'
   - ·
-  - ˒
-  - '3'
-  - '|'
   - ω
-  - '4'
-  - '?'
-  - ̂
-  - ¶
-  - G
   - '5'
+  - '|'
+  - ˒
+  - ̂
+  - G
+  - '?'
+  - '6'
   - B
+  - ¶
   - ;
   - )
-  - ß
-  - '6'
   - F
-  - γ
-  - ']'
-  - δ
-  - ꝙ
-  - '9'
-  - (
-  - θ
   - '8'
+  - '9'
+  - γ
+  - ß
   - '7'
+  - δ
+  - ']'
+  - (
+  - ꝙ
+  - θ
   - φ
   - '0'
   - χ
   - ̔
+  - z
   - 
   - β
   - ꝗ
   - ꝓ
   - ꝰ
-  - z
   - X
-  - /
   - ξ
+  - /
   - 
   - ̧
   - Α
-  - ꝶ
   - ͅ
   - ̈
-  - ꝑ
+  - ꝶ
   - Ε
+  - ꝑ
   - Κ
   - ζ
+  - ’
+  - "'"
   - k
   - ꝵ
   - 
   - ψ
-  - ’
+  - Æ
+  - Π
   - Τ
   - ẜ
   - ⁋
-  - Π
-  - "'"
-  - Β
   - Z
-  - Æ
-  - Μ
-  - '-'
+  - Β
   - ʹ
+  - Μ
   - U
+  - '-'
   - '*'
   - Σ
+  - Y
   - K
   - Δ
   - đ
   - ❧
   - Ꝙ
   - J
-  - Y
+  - Ν
   - Λ
   - ו
   - ח
   - ł
-  - Ν
   - Ο
   - א
+  - ל
   - י
   - ꝯ
   - »
   - ↄ
+  - £
   - Η
   - $
   - Υ
@@ -174,7 +176,6 @@ characters:
   - ẞ
   - ̄
   - ש
-  - ל
   - ד
   - ב
   - –
@@ -184,9 +185,11 @@ characters:
   - „
   - Χ
   - ᾽
+  - ת
+  - פ
+  - ה
   - +
   - Ι
-  - £
   mode: NFD
 description: Data for data for Paul’s exegesis.
 format: Alto-XML
@@ -212,11 +215,11 @@ title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/16thExegesisDH/HTR_1-Timotheus
 volume:
-- count: 677787
+- count: 746812
   metric: characters
-- count: 430
+- count: 485
   metric: files
-- count: 16918
+- count: 18815
   metric: lines
-- count: 2915
+- count: 3246
   metric: regions
