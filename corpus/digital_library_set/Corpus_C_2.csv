@@ -1,0 +1,68 @@
+Identifier,Segmentation-auto,OCR-auto,Segmentation,Transcription,Prop,  Resp,Author,Title,Printer,Date,Place,Link digital book,Library,Call number,Priority,files for script,page_nbr,varia
+Bugenhagen_Rom_001,yes,no,no,no,H,,Johannes Bugenhagen,In epistolam Pauli ad Romanos Interpretatio,Johannes Secerius,1527,Hagenau,https://data.onb.ac.at/rep/10AC1F79, Österreichische Nationalbibliothek,77.K.55 ALT PRUNK,1,https://api.onb.ac.at/iiif/presentation/v3/manifest/10AC1F79,/374,ONB
+Calvin_Rom_001,no,no,no,no,B,,Jean Calvin,"Commentarij in Epistolam Pauli ad Romanos
+",Rihel,1540,Strassbourg,https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11119106-3,"Regensburg, Staatliche Bibliothek",999/Theol.syst.1101(1,1,bsb11119106_00005-bsb11119106_00466,/461,
+Erasmus_Cor_001,no,no,no,no,M,,Desiderius Erasme,Paraphrasis in duas epistolas Pauli ad Corinthios ,Froben,1519,Basel,https://doi.org/10.3931/e-rara-3172  ,"Universitätsbibliothek Basel,",UBH FC* III 8:2,1,1192835-1193059,/224,ce n’est pas un commentaire
+Hemmingsen_Rom_001,no,no,no,no,NS,,Niels Hemmigsen,Commentarius in epistolam Pauli ad Romanos,Voegelin Ernst,1562,Leipzig,http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10176721-0 ,"München, Bayerische Staatsbibliothek",Exeg. 470,1,bsb10176721_00001-bsb10176721_00530,/530,
+Knopken_Rom_001,no ,no ,no,no,H,,Andreas Knopken,In epistolam ad Romanos interpretatio,Johann Petreius,1524,Nuernberg,https://onb.digital/result/109892B3, Österreichische Nationalbibliothek,79.Ee.102 ALT PRUNK,1,https://api.onb.ac.at/iiif/presentation/v3/manifest/109892B3,/182,
+Major_Rom_001,no,no,no,no,H,, Georg Maior,"Series et dispositio orationis in epistola Pauli ad Romanos,",Hans Luft,1556,Wittenberg,https://www.digitale-sammlungen.de/en/details/bsb10176888,"München, Bayerische Staatsbibliothek",Exeg. 730#Beibd.1,1,bsb10176888_00001-bsb10176888_00288,/288,
+Megander_Eph_001,no,no,no,no,N,,Kaspar Megander,n epistolam Pauli ad Ephesios commentarius una cum Ioannis Rhellicani epistola monitoria,Henrichus Petri,1534,Basel,https://www.digitale-sammlungen.de/en/details/bsb00036972,"München, Bayerische Staatsbibliothek",Exeg. 700 m,1,bsb00036972_0001-bsb00036972_00282,/282,
+Melanchthon_Rom-Cor_001,no,no,no,no,H,,Philipp Melanchthon,Annotationes in epistolam Pauli ad Romanos unam et ad Corinthios duas,Johannes Herwagen,1523,Strassburg,https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN773861106,"
+Staatsbibliothek zu Berlin",Bt 2552,1,773861106-00001-773861106-00314,/314,
+Oekolampadius_Rom_001,no,no,no,no,B,,Johannes Oekolampadius,In epistolam B. Pauli apost. ad Rhomanos adnotationes,Cratander,1525,Basel, https://doi.org/10.3931/e-rara-8160,"Zentralbibliothek Zürich,","C 283,2",1,2122868-2123104,/220,
+Oekolampadius_Hebr_001,no,no,no,no,M,,Johannes Oekolampadius,In Epistolam Ad Hebraeos explanationes,,1534,Basel,https://www.digitale-sammlungen.de/en/details/bsb10180052,"München, Bayerische Staatsbibliothek
+","Hom. 1112#Beibd.1
+",1,bsb10180052_00001-bsb10180052_00382,/382,
+Olevian_Eph_001,no,no,no,no,N,,Kaspar Olevian,Notae in epistolam Pauli apostoli ad Ephesios,Christoph Corvin,1588,Herborna,https://www.digitale-sammlungen.de/en/details/bsb10176929,"München, Bayerische Staatsbibliothek
+","Exeg. 816
+",1,bsb10176929_00001-bsb10176929_00304,/304,
+Rollock_Eph_001,no,no,no,no,N,,Robert Rollock,In Epistolam S. Pauli apostoli ad Ephesios,François le Preux,1593,Genève,https://doi.org/10.3931/e-rara-1263,Universitätsbibliothek Basel,UBH Frey-Gryn G VI 22:1,1,345266-345711,/448,
+Aretius_Omn_comm_001,no,no,no,no,NS,,Benedik Aretius,"Commentarii in omnes Epistolas D. Pauli, et canonicas, itemque in Apocalypsin D. Joannis",Jean le preux,1583,Morges,https://doi.org/10.3931/e-rara-54508,Bibliothèque de Genève,"BGE Cxb 7256 (1) BGE Bb 2232 (1),",2,15046249-15047230,/981,long 
+Bugenhagen_Omn_001,no,no,no,no,H,,Johannes Bugenhagen,"Annotationes in epistolas Pauli ad Galatas, Ephesios, Philippenses, Colossenses, Thessalonicenses primam et secundam, Timotheum primam et secundam, Titum, Philemonem, Hebraeos",Johann Knoblock,1525,Strassburg,http://data.onb.ac.at/ABO/+Z184895500 , Österreichische Nationalbibliothek,77.W.37 ALT PRUNK,2,https://api.onb.ac.at/iiif/presentation/v3/manifest/10AAFC33,/364,
+Erasmus_Rom_001,no,no,no,no,M,,Desiderius Erasme,"In Epistolam Pavli Apostoli Ad Romanos Paraphrasis
+",Froben,1518,Basel,https://www.digitale-sammlungen.de/en/details/bsb00021816,"München, Bayerische Staatsbibliothek
+","4 Exeg. 274
+",2,bsb00021816_00005-bsb00021816_00148,/143,pourrait entrer dans la catégorie 1
+Gwalther_Rom_001,no,no,no,no,B,,Gwalther Rudolf,In D. Pauli apostoli epistolam ad Romanos homiliae,Christopher Froschauer,1566,Zürich,https://doi.org/10.3931/e-rara-5002,Zentralbibliothek Zürich, III R 36: v | F,2,1495501-1496009,/508,
+Gwalther_Omn_001,no,no,no,no,NS,,"Gwalther, Rudolf",In divi Pauli Apostoli epistolas omnes D. Rodolphi Gvaltheri,,1589,Zürich,https://doi.org/10.3931/e-rara-20997  ,Zentralbibliothek Zürich,"III R 36,2",2,6514184-6514928,/744,
+Heshusen_Rom_001,no,no,no,no,H,,Tilemann Heshusen,Explicatio epistolae Pauli ad Romanos,Guenther Huettich,1571,Jena,https://www.digitale-sammlungen.de/en/details/bsb11116448,"Regensburg, Staatliche Bibliothek",999/Script.536,2,bsb11116448_00001-bsb11116448_00930,/930,
+Hunnius_Rom_001,no,no,no,no,H,,Aegidius Hunnius,Epistolae Pauli ad Romanos expositio,Johann Spiess,1590,Frankfurt,https://onb.digital/result/108BF1AD, Österreichische Nationalbibliothek,9.X.24 ALT PRUNK,2,https://api.onb.ac.at/iiif/presentation/v3/manifest/108BF1AD,/550,
+Legrand_Rom_001,no,no,no,no,B,,Nicolas Legrand, In Epistolam [...] Pauli ad Romanos aeditio,le Preux,1546,Paris,https://www.digitale-sammlungen.de/en/details/bsb10176682,"München, Bayerische Staatsbibliothek
+","Exeg. 419
+",2,bsb10176682_00001-bsb10176682_00724,/742,long
+Major_Hbr_001,no,no,no,no,M,, Georg Maior,Enarratio ad Hebraeos,Hans Luft,1571,Wittenberg,"http://resolver.staatsbibliothek-berlin.de/SBB000064B900000000
+","Staatsbibliothek zu Berlin
+",50 MA 27410,2,66960271X-0008-66960271X-01200,/1048,script pour berlin
+Musculus_Gal-Eph_001,no,no,no,no,N,,Wolfgang Musculus,"In epistolas Apostoli Pauli, ad Galatas et Ephesios",Johannes Herwagen,1561,Basel,https://www.e-rara.ch/bau_1/doi/10.3931/e-rara-5574,"Universitätsbibliothek Basel,",UBH FN V 8:2,2,1708570-1709010,/442,
+Pellikan_Omn_001,no,no,no,no,N/B,,Konrad Pellikan,"In omnes apostolicas epistolas, Pauli, Petri, Iacobi, Ioannis et Iudae D.",Froschauer,1539,Zurich,https://doi.org/10.3931/e-rara-2604. ,Zentralbibliothek Zürich,III B 14 | G,2,843611-844417,/815,
+De_Soto_Rom_001,no,no,no,no,B,,Domingo de Soto,"In Epistolam Divi Pauli ad Romanos commentarii
+",Joannes Steelsius,1550,Anvers,https://www.digitale-sammlungen.de/en/details/bsb10142983,"München, Bayerische Staatsbibliothek
+","2 Exeg. 546
+",2,bsb10142983_00001-bsb10142983_00734,/734,
+Erasmus_Rom_002,no,no,no,no,M,,Desiderius Erasme,"Apologia ad eximium Jacobum Fabrum Stapulensem]
+",Froben,1518,Basel,https://www.digitale-sammlungen.de/en/details/bsb10159245,"München, Bayerische Staatsbibliothek
+","4 Exeg. 249
+",2,bsb10159245_00001-bsb10159245_00132,/132,ce n’est pas un commentaire
+Wigand_Rom_001,no,no,no,no,H,,Johan Wigand,In epistolam S. Pauli ad Romanos annotationes,Georg Rab,1580,Frankfurt,https://www.digitale-sammlungen.de/en/details/bsb10176890,"München, Bayerische Staatsbibliothek",Exeg. 731#Beibd.1,2,bsb10176890_00001-bsb10176890_00344,/344,un peu compliqué
+Brenz_Rom_001,no,no,no,no,H,,Johannes Brenz,"In Epistolam quam Apostolus Paulus ad Romanos scripsit, Commentariorvm Libri Tres",Petrus Brubachius,1564,Frankfurt,"https://data.onb.ac.at/rep/10AC1220
+", Österreichische Nationalbibliothek,77.B.12  ,3,https://api.onb.ac.at/iiif/presentation/v3/manifest/10AC1220,/402,"ONB, vieux papier, grec"
+Gwalther_Biblia_versif,no,no,no,no,NS,,Gwalther Rudolf,"Argumenta omnium, tam Veteris quam Novi Testamenti, capitum : elegiaco carmine conscripta",Christopher Froschauer,1543,Zürich,https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10187162-5,"München, Bayerische Staatsbibliothek",Mor. 283#Beibd.2,3,bsb10187162_00001-bsb10187162_00285,/288,versification de la bible
+Hunnius_Omn_001,no,no,no,no,H,,Aegidius Hunnius,"Operorum latinorum Aegidii Hunnii … tomus quartus complectens commentarios eius in epistolas B. Pauli apostoli, canonicam Joannis, et eam quae est ad Hebraeos,",Joannis Jacobi Porsii,1606,Frankfurt,https://www.digitale-sammlungen.de/en/details/bsb11059460,"Regensburg, Staatliche Bibliothek
+","999/2Theol.syst.16(4/5
+",3,bsb11059460_00001-bsb11059460_01038,/1084,deux colonnes
+Lefèvre_Omn_001,no,no,no,no ,M,,Jacques Lefèvre d’Étaples,Commentariorum in Epistolas D. Pauli liber,Franciscum Reginaldum,1531,Paris,https://gallica.bnf.fr/ark:/12148/bpt6k8707509x , Bibliothèque nationale de France,A-1607 (1),3,script de division des pdf (visual code) ,/483,long et double colone pour partie mais être de catégorie 2
+Lefèvre_al_001,no,no,no,no,M,,Jacques Lefèvre d’Étaples,commentarii in epistolas catholicas,"Andr, Cratandrum et Johannes Beblium",1527,Basel,https://doi.org/10.3931/e-rara-1607 ,"Universitätsbibliothek Basel,",UBH Rc 89,3,490427-490605,/176,forme compliqué avec bcp de marge
+Olevian_Rom_001,no,no,no,no,B,,Kaspar Olevian,In Epistolam D. Pauli Apostoli ad Romanos notae,Vignon,1579,Genève,https://doi.org/10.3931/e-rara-897 ,"Universitätsbibliothek Basel
+",UBH Frey-Gryn A VII 170:1,3,244797-245572,/778,long
+Valla_Biblia_adnotatio_001,no,no,no,no,M,,Lorenzo Valla,n Latinam Novi Testamenti interpretationem ex collatione Grecorum exemplarium adnotationes apprime utiles,Petit Bade,1505,Paris,https://www.digitale-sammlungen.de/en/details/bsb11059298,"Regensburg, Staatliche Bibliothek
+","999/2Script.828
+",3,bsb11059298_00001-bsb11059298_00100,/100,mise en page compliqué
+Vermigli_Rom_001,no,no,no,no,B,,Petrus Martyr Vermigli,In epistolam S. Pauli ad Romanos commentarii doctissimi,,1559,Zürich,https://www.digitale-sammlungen.de/en/details/bsb10176850,"München, Bayerische Staatsbibliothek",Exeg. 686,3,bsb10176850_00001-bsb10176850_01304,/1304,long
+Bucer_Rom_001,no,no,no,no,H,,Bucer Martin,Metaphrases et enarrationes perpetuae epistolarum d. Pauli apostoli [...] in epistolam ad Romanos,Rihel,1536,Strassbourg,https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11059175-0,"Regensburg, Staatliche Bibliothek",999/2Script.662,4,bsb11059175_00001-bsb11059175_00519,/518,sur deux colonnes
+Calvin_Ga-Col_001,no,no,no,no,NS,,Jean Calvin,"Commentaire de M. Jean Calvin sur quatre Epistres de sainct Paul, assavoir aux Galatiens, Ephesiens, Philippiens, Colossiens",Jean Girard,1548,Genève,https://doi.org/10.3931/e-rara-1043  ,"Bibliothèque de Genève,",BGE Cta 3478 BGE Bb 1990,4,236519-237219,/700,"text en français, probleme de normalisation, retablir seulement les s long?"
+Zanchi_Eph_001,no,no,no,no,N,,Girolamo Zanchi,in D. Pauli Epistolam ad Ephesios commentarius absolutissimus,Matthäus Harnisius,1594,Neustadt an der Weinstraße,,"München, Bayerische Staatsbibliothek",2 Exeg. 633,4,bsb10143024_00001-bsb10143024_00494,/494,deux colonnes
+Sarcerius_Rom_001,no,no,no,no,H,,Sacerius Erasmus,In epistolam ad Romanos pia et erudita scholia,Christian Egenolff,1541,Frankfurt,https://onb.digital/result/10AFACFC,Österreichische Nationalbibliothek,77.M.94 ALT PRUNK,4,https://api.onb.ac.at/iiif/presentation/v3/manifest/10AFACFC,/878,Long + mise en page compliqué
+Marloratus_Biblia_001,no,no,no,no,N/B,,Augustinus Marloratus,Novi Testamenti catholica expositio ecclesiastica,Henri Estienne,1561,Genève,https://doi.org/10.3931/e-rara-5782/,"Bibliothèque de Genève,",BGE Cya 900 BGE Y 1051,5,11352636-11354351,/1721,Bible
+de_Beze_Biblia_001,no,no,no,no,NS,,Theodore de Bèze,Biblia utriusque Testamenti.,Robert Etienne,1556,Genève,https://doi.org/10.3931/e-rara-6094,Bibliothèque de Genève,Bb 2341,5,10659201-10660563,/1361,"il s’agit du tome 1 ancien testamment le rapport me paraît lointain, en plus de la forme de la bible qui rend la segmentation complexe "
+Erasmus_biblia_001,no,no,no,no,M,,Desiderius Erasme,Novum Instrumentum,Johannes Froben ,1516,Basel,https://www.e-rara.ch/bau_1/doi/10.3931/e-rara-2849,"Universitätsbibliothek Basel,",UBH BibG B 3,5,895559-896547,/988,Bible + grec+ etc
+Flaccus_NT_001,no,no,no,no,H,,Flaccus Mathias,Novum Testamentum,Peter Perna et Theobaldus Dietrich ,1570,Basel, http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10199014-6 ,"München, Bayerische Staatsbibliothek ",Res/4 B.gr. 200 c,5,bsb10199014_00007-bsb10199014_01520,/1513,Bible + grec+ etc
